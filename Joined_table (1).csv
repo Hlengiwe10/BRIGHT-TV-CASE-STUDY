@@ -1,0 +1,1001 @@
+UserID,Gender,Age,Race,Province,Channel2,RecordDate2,Duration 2
+808923,male,23,other,Eastern Cape,SuperSport Blitz,2016/02/21 18:03,2025-09-24T00:01:12.000Z
+808923,male,23,other,Eastern Cape,Trace TV,2016/02/17 18:45,2025-09-24T00:13:21.000Z
+630977,male,28,coloured,Gauteng,Trace TV,2016/01/16 09:52,2025-09-24T00:00:15.000Z
+850656,male,26,black,Mpumalanga,Africa Magic,2016/03/05 21:12,2025-09-24T00:00:17.000Z
+850656,male,26,black,Mpumalanga,Channel O,2016/03/06 05:25,2025-09-24T00:00:00.000Z
+850656,male,26,black,Mpumalanga,Africa Magic,2016/03/06 07:09,2025-09-24T00:00:00.000Z
+2368365,male,27,coloured,Limpopo,ICC Cricket World Cup 2011,2016/03/30 11:17,2025-09-24T00:38:12.000Z
+1106115,female,26,black,Western Cape,Africa Magic,2016/01/11 16:06,2025-09-24T00:06:26.000Z
+1106115,female,26,black,Western Cape,Trace TV,2016/01/11 15:33,2025-09-24T00:05:57.000Z
+820387,male,15,black,Limpopo,SuperSport Blitz,2016/01/27 13:54,2025-09-24T00:12:08.000Z
+820387,male,15,black,Limpopo,Cartoon Network,2016/01/27 09:52,2025-09-24T00:01:27.000Z
+820387,male,15,black,Limpopo,Channel O,2016/01/25 10:07,2025-09-24T00:00:57.000Z
+820387,male,15,black,Limpopo,SuperSport Blitz,2016/01/26 19:30,2025-09-24T00:07:30.000Z
+808984,male,42,coloured,Western Cape,kykNET,2016/02/19 15:58,2025-09-24T00:01:57.000Z
+778615,None,0,None,None,Channel O,2016/03/12 15:45,2025-09-24T00:03:45.000Z
+939662,male,23,black,Mpumalanga,ICC Cricket World Cup 2011,2016/03/30 12:48,2025-09-24T00:02:10.000Z
+2359733,male,43,black,Gauteng,Channel O,2016/01/26 21:50,2025-09-24T00:08:33.000Z
+866215,male,22,black,Kwazulu Natal,Trace TV,2016/03/07 16:00,2025-09-24T00:04:03.000Z
+803575,male,27,indian_asian,Eastern Cape,Supersport Live Events,2016/02/19 09:08,2025-09-24T00:00:22.000Z
+803575,male,27,indian_asian,Eastern Cape,Supersport Live Events,2016/01/31 09:46,2025-09-24T00:27:16.000Z
+803575,male,27,indian_asian,Eastern Cape,Supersport Live Events,2016/01/23 10:34,2025-09-24T00:39:16.000Z
+2090538,male,39,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 14:58,2025-09-24T00:29:56.000Z
+779471,male,28,black,Eastern Cape,Boomerang,2016/02/10 06:38,2025-09-24T00:11:09.000Z
+788744,male,23,coloured,Western Cape,SuperSport Blitz,2016/01/14 23:09,2025-09-24T00:02:30.000Z
+788744,male,23,coloured,Western Cape,Supersport Live Events,2016/01/18 09:35,2025-09-24T00:00:52.000Z
+2285664,male,28,indian_asian,Mpumalanga,SuperSport Blitz,2016/03/25 07:26,2025-09-24T00:00:00.000Z
+2285664,male,28,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/26 10:02,2025-09-24T01:06:24.000Z
+720398,female,28,coloured,Gauteng,DStv Events 1,2016/01/20 17:22,2025-09-24T00:01:05.000Z
+930094,male,26,other,Free State,ICC Cricket World Cup 2011,2016/03/29 10:17,2025-09-24T00:01:24.000Z
+930094,male,26,other,Free State,Trace TV,2016/03/29 15:32,2025-09-24T00:01:00.000Z
+789241,male,25,coloured,Northern Cape,Boomerang,2016/02/13 08:22,2025-09-24T00:01:58.000Z
+771927,female,36,None,Western Cape,Supersport Live Events,2016/01/31 09:08,2025-09-24T00:18:14.000Z
+771927,female,36,None,Western Cape,CNN,2016/01/29 16:32,2025-09-24T00:00:58.000Z
+771927,female,36,None,Western Cape,SuperSport Blitz,2016/01/28 13:00,2025-09-24T00:17:14.000Z
+771927,female,36,None,Western Cape,Supersport Live Events,2016/02/01 08:12,2025-09-24T04:49:00.000Z
+771927,female,36,None,Western Cape,Supersport Live Events,2016/01/27 14:14,2025-09-24T00:01:18.000Z
+771927,female,36,None,Western Cape,SuperSport Blitz,2016/01/27 05:55,2025-09-24T00:02:26.000Z
+771927,female,36,None,Western Cape,Cartoon Network,2016/01/30 16:39,2025-09-24T00:01:38.000Z
+904340,male,28,indian_asian,Gauteng,E! Entertainment,2016/03/27 17:38,2025-09-24T00:00:42.000Z
+904340,male,28,indian_asian,Gauteng,Vuzu,2016/03/27 17:45,2025-09-24T00:00:23.000Z
+904340,male,28,indian_asian,Gauteng,E! Entertainment,2016/03/26 21:29,2025-09-24T00:00:00.000Z
+809079,male,30,black,Mpumalanga,Cartoon Network,2016/02/22 19:08,2025-09-24T00:00:08.000Z
+809079,male,30,black,Mpumalanga,Africa Magic,2016/02/21 13:27,2025-09-24T00:00:17.000Z
+809079,male,30,black,Mpumalanga,Boomerang,2016/02/21 17:15,2025-09-24T00:00:18.000Z
+809079,male,30,black,Mpumalanga,SuperSport Blitz,2016/02/21 17:22,2025-09-24T00:00:42.000Z
+819358,male,39,white,Western Cape,Trace TV,2016/02/26 20:38,2025-09-24T00:00:45.000Z
+819358,male,39,white,Western Cape,ICC Cricket World Cup 2011,2016/03/02 11:59,2025-09-24T00:05:12.000Z
+819358,male,39,white,Western Cape,Supersport Live Events,2016/03/19 16:24,2025-09-24T00:03:20.000Z
+242356,male,30,white,Gauteng,ICC Cricket World Cup 2011,2016/03/01 09:03,2025-09-24T00:00:00.000Z
+830921,male,22,white,Eastern Cape,Trace TV,2016/03/03 19:24,2025-09-24T00:01:15.000Z
+866295,male,43,None,Gauteng,ICC Cricket World Cup 2011,2016/03/15 11:01,2025-09-24T00:46:48.000Z
+173765,None,0,None,None,Trace TV,2016/01/08 07:29,2025-09-24T00:01:03.000Z
+764468,male,34,black,Gauteng,Channel O,2016/02/02 06:59,2025-09-24T00:02:09.000Z
+724179,female,21,black,Gauteng,Channel O,2016/01/20 18:49,2025-09-24T00:10:51.000Z
+865440,male,31,indian_asian,Gauteng,Supersport Live Events,2016/03/14 08:35,2025-09-24T00:21:28.000Z
+865440,male,31,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/14 10:28,2025-09-24T00:06:10.000Z
+892643,male,28,coloured,Western Cape,Cartoon Network,2016/03/13 10:16,2025-09-24T00:21:24.000Z
+892643,male,28,coloured,Western Cape,SuperSport Blitz,2016/03/13 12:10,2025-09-24T00:00:08.000Z
+892643,male,28,coloured,Western Cape,Boomerang,2016/01/02 00:24,2025-09-24T03:32:21.000Z
+892643,male,28,coloured,Western Cape,Cartoon Network,2016/01/04 04:42,2025-09-24T00:02:42.000Z
+892643,male,28,coloured,Western Cape,Cartoon Network,2016/01/19 19:40,2025-09-24T00:04:12.000Z
+771978,male,23,black,Kwazulu Natal,Boomerang,2016/02/05 03:06,2025-09-24T00:00:31.000Z
+820573,male,32,white,Gauteng,Boomerang,2016/02/26 17:06,2025-09-24T00:00:20.000Z
+820573,male,32,white,Gauteng,ICC Cricket World Cup 2011,2016/03/02 10:04,2025-09-24T00:55:08.000Z
+820573,male,32,white,Gauteng,SawSee,2016/02/28 19:16,2025-09-24T00:00:57.000Z
+2420497,male,22,coloured,Western Cape,Trace TV,2016/01/10 19:58,2025-09-24T00:47:54.000Z
+82389,None,0,None,None,DStv Events 1,2016/01/08 11:33,2025-09-24T00:09:30.000Z
+809148,male,35,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/03/13 13:17,2025-09-24T00:09:58.000Z
+809148,male,35,indian_asian,Limpopo,Trace TV,2016/02/20 22:40,2025-09-24T00:04:45.000Z
+809148,male,35,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/02/27 10:40,2025-09-24T00:43:22.000Z
+2429528,male,30,None,Gauteng,E! Entertainment,2016/03/31 21:47,2025-09-24T00:00:58.000Z
+2429528,male,30,None,Gauteng,Supersport Live Events,2016/03/30 05:51,2025-09-24T00:01:16.000Z
+2429528,male,30,None,Gauteng,ICC Cricket World Cup 2011,2016/03/30 05:51,2025-09-24T00:00:22.000Z
+2429528,male,30,None,Gauteng,SuperSport Blitz,2016/03/30 16:17,2025-09-24T00:02:20.000Z
+2429528,male,30,None,Gauteng,Boomerang,2016/03/30 10:30,2025-09-24T00:00:25.000Z
+2429528,male,30,None,Gauteng,Cartoon Network,2016/03/25 16:26,2025-09-24T00:00:11.000Z
+2429528,male,30,None,Gauteng,DStv Events 1,2016/03/25 13:51,2025-09-24T00:00:30.000Z
+2429528,male,30,None,Gauteng,Trace TV,2016/03/29 05:06,2025-09-24T00:00:39.000Z
+45769,None,0,None,None,ICC Cricket World Cup 2011,2016/03/12 11:28,2025-09-24T00:01:44.000Z
+924896,male,25,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 10:23,2025-09-24T01:01:38.000Z
+894417,None,0,None,None,Trace TV,2016/03/28 10:23,2025-09-24T00:00:00.000Z
+894417,None,0,None,None,E! Entertainment,2016/03/24 05:48,2025-09-24T00:01:02.000Z
+772052,male,32,coloured,Western Cape,Supersport Live Events,2016/03/20 16:26,2025-09-24T00:00:00.000Z
+772052,male,32,coloured,Western Cape,Supersport Live Events,2016/03/26 14:38,2025-09-24T00:45:32.000Z
+898831,male,26,white,Gauteng,ICC Cricket World Cup 2011,2016/03/23 10:07,2025-09-24T00:00:00.000Z
+788922,male,52,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/05 16:03,2025-09-24T00:00:52.000Z
+788922,male,52,coloured,Western Cape,ICC Cricket World Cup 2011,2016/02/27 16:06,2025-09-24T00:01:52.000Z
+809231,male,45,black,Gauteng,CNN,2016/02/22 13:13,2025-09-24T00:03:44.000Z
+809231,male,45,black,Gauteng,CNN,2016/02/26 10:51,2025-09-24T00:01:16.000Z
+809231,male,45,black,Gauteng,CNN,2016/03/22 11:10,2025-09-24T00:01:45.000Z
+809231,male,45,black,Gauteng,SuperSport Blitz,2016/02/14 15:31,2025-09-24T00:02:06.000Z
+809231,male,45,black,Gauteng,CNN,2016/03/24 15:44,2025-09-24T00:03:45.000Z
+809231,male,45,black,Gauteng,CNN,2016/02/16 06:48,2025-09-24T00:12:28.000Z
+809231,male,45,black,Gauteng,Cartoon Network,2016/02/04 11:18,2025-09-24T00:00:48.000Z
+809231,male,45,black,Gauteng,Channel O,2016/02/10 13:22,2025-09-24T00:07:57.000Z
+809231,male,45,black,Gauteng,CNN,2016/03/23 08:45,2025-09-24T00:03:28.000Z
+809231,male,45,black,Gauteng,Supersport Live Events,2016/03/05 20:37,2025-09-24T00:02:50.000Z
+809231,male,45,black,Gauteng,CNN,2016/02/06 12:22,2025-09-24T00:02:56.000Z
+809231,male,45,black,Gauteng,ICC Cricket World Cup 2011,2016/03/20 08:44,2025-09-24T00:05:56.000Z
+809231,male,45,black,Gauteng,SuperSport Blitz,2016/02/27 09:10,2025-09-24T00:07:06.000Z
+809231,male,45,black,Gauteng,Trace TV,2016/02/23 04:58,2025-09-24T00:05:15.000Z
+809231,male,45,black,Gauteng,CNN,2016/02/23 05:31,2025-09-24T00:17:22.000Z
+809231,male,45,black,Gauteng,E! Entertainment,2016/03/30 15:57,2025-09-24T00:00:26.000Z
+2203633,male,70,white,Eastern Cape,E! Entertainment,2016/02/16 16:29,2025-09-24T00:01:26.000Z
+790685,male,29,black,Kwazulu Natal,Africa Magic,2016/02/14 07:36,2025-09-24T00:00:02.000Z
+872104,male,24,coloured,Western Cape,Supersport Live Events,2016/03/19 18:08,2025-09-24T00:00:00.000Z
+924949,male,27,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 11:40,2025-09-24T00:00:00.000Z
+820737,None,0,None,None,Supersport Live Events,2016/03/18 06:35,2025-09-24T00:08:30.000Z
+779656,female,29,black,Gauteng,Trace TV,2016/01/15 07:57,2025-09-24T00:09:09.000Z
+779656,female,29,black,Gauteng,Africa Magic,2016/01/24 16:32,2025-09-24T00:00:00.000Z
+779656,female,29,black,Gauteng,Africa Magic,2016/01/24 20:10,2025-09-24T00:00:00.000Z
+779656,female,29,black,Gauteng,Africa Magic,2016/02/09 19:34,2025-09-24T00:00:00.000Z
+779656,female,29,black,Gauteng,Africa Magic,2016/02/08 19:51,2025-09-24T00:00:00.000Z
+779656,female,29,black,Gauteng,Africa Magic,2016/02/08 18:28,2025-09-24T00:32:29.000Z
+2426146,female,35,coloured,Western Cape,SuperSport Blitz,2016/03/06 15:29,2025-09-24T00:01:58.000Z
+2426146,female,35,coloured,Western Cape,Trace TV,2016/03/10 10:17,2025-09-24T00:12:51.000Z
+2420731,male,43,black,Gauteng,Channel O,2016/03/22 17:26,2025-09-24T00:13:42.000Z
+809284,male,32,white,Western Cape,ICC Cricket World Cup 2011,2016/02/22 12:32,2025-09-24T00:07:06.000Z
+809284,male,32,white,Western Cape,ICC Cricket World Cup 2011,2016/02/25 14:18,2025-09-24T00:00:14.000Z
+809286,male,35,white,Mpumalanga,SawSee,2016/03/06 07:32,2025-09-24T00:14:05.000Z
+2368931,male,38,indian_asian,Limpopo,Boomerang,2016/02/20 09:25,2025-09-24T00:01:32.000Z
+820770,male,36,coloured,Western Cape,Supersport Live Events,2016/03/24 12:47,2025-09-24T00:59:14.000Z
+820770,male,36,coloured,Western Cape,Supersport Live Events,2016/02/25 09:47,2025-09-24T00:12:42.000Z
+820770,male,36,coloured,Western Cape,ICC Cricket World Cup 2011,2016/02/27 16:41,2025-09-24T00:15:08.000Z
+820770,male,36,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/12 16:18,2025-09-24T00:01:38.000Z
+820770,male,36,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/03 03:48,2025-09-24T00:01:20.000Z
+733347,male,34,None,North West,Channel O,2016/01/23 18:12,2025-09-24T00:15:48.000Z
+733347,male,34,None,North West,Africa Magic,2016/01/24 14:31,2025-09-24T00:00:08.000Z
+733347,male,34,None,North West,Channel O,2016/01/23 17:29,2025-09-24T00:00:39.000Z
+39353,None,0,None,None,Trace TV,2016/01/05 01:54,2025-09-24T00:03:30.000Z
+2092115,male,49,black,Mpumalanga,Boomerang,2016/02/13 17:37,2025-09-24T00:05:29.000Z
+866540,male,33,coloured,Western Cape,Channel O,2016/03/08 19:30,2025-09-24T00:00:12.000Z
+940010,male,27,black,Gauteng,Supersport Live Events,2016/03/26 08:35,2025-09-24T00:00:40.000Z
+773393,male,17,white,Western Cape,Boomerang,2016/02/08 10:01,2025-09-24T00:09:03.000Z
+809317,male,29,None,Western Cape,Cartoon Network,2016/02/21 12:46,2025-09-24T00:01:28.000Z
+809317,male,29,None,Western Cape,M-Net,2016/02/20 20:11,2025-09-24T00:03:40.000Z
+809317,male,29,None,Western Cape,M-Net,2016/02/19 20:25,2025-09-24T00:00:49.000Z
+940027,male,111,None,Limpopo,Africa Magic,2016/03/30 07:34,2025-09-24T00:00:09.000Z
+866564,male,30,indian_asian,Gauteng,Supersport Live Events,2016/03/24 08:59,2025-09-24T00:08:14.000Z
+866564,male,30,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/20 11:15,2025-09-24T00:11:18.000Z
+33773,None,0,None,None,ICC Cricket World Cup 2011,2016/03/12 08:50,2025-09-24T00:00:08.000Z
+886721,male,30,indian_asian,Gauteng,Boomerang,2016/03/21 23:43,2025-09-24T00:00:21.000Z
+809331,male,49,indian_asian,Western Cape,SuperSport Blitz,2016/02/20 15:15,2025-09-24T00:20:40.000Z
+809331,male,49,indian_asian,Western Cape,CNN,2016/02/14 15:14,2025-09-24T00:00:00.000Z
+809331,male,49,indian_asian,Western Cape,Supersport Live Events,2016/02/24 16:27,2025-09-24T00:00:24.000Z
+809331,male,49,indian_asian,Western Cape,ICC Cricket World Cup 2011,2016/02/24 16:04,2025-09-24T00:04:24.000Z
+809331,male,49,indian_asian,Western Cape,SuperSport Blitz,2016/03/23 10:47,2025-09-24T00:00:30.000Z
+809331,male,49,indian_asian,Western Cape,SuperSport Blitz,2016/03/25 18:09,2025-09-24T00:06:04.000Z
+869301,female,40,coloured,Eastern Cape,Trace TV,2016/03/07 12:35,2025-09-24T00:06:57.000Z
+832147,male,40,black,Mpumalanga,Channel O,2016/03/02 15:04,2025-09-24T00:26:36.000Z
+940064,male,45,coloured,Western Cape,Cartoon Network,2016/03/23 05:29,2025-09-24T00:06:46.000Z
+793883,male,32,coloured,Northern Cape,Trace TV,2016/02/15 12:36,2025-09-24T00:04:36.000Z
+789053,female,34,black,Gauteng,Boomerang,2016/01/28 21:38,2025-09-24T00:13:51.000Z
+866592,male,28,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/14 09:15,2025-09-24T00:10:32.000Z
+866592,male,28,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/12 10:20,2025-09-24T01:24:50.000Z
+866592,male,28,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/12 13:39,2025-09-24T00:57:46.000Z
+930462,male,31,coloured,Western Cape,Boomerang,2016/03/31 19:26,2025-09-24T00:00:44.000Z
+809380,male,32,white,Free State,ICC Cricket World Cup 2011,2016/03/15 13:55,2025-09-24T00:45:44.000Z
+866623,male,40,other,Western Cape,CNN,2016/03/10 22:15,2025-09-24T00:11:32.000Z
+785456,female,41,white,Gauteng,E! Entertainment,2016/02/11 10:36,2025-09-24T00:01:48.000Z
+809407,female,33,black,Limpopo,Africa Magic,2016/02/09 04:49,2025-09-24T00:26:04.000Z
+1999958,male,24,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/19 09:03,2025-09-24T00:29:08.000Z
+1999958,male,24,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/19 09:06,2025-09-24T00:00:00.000Z
+803967,male,43,black,Kwazulu Natal,Boomerang,2016/01/06 18:23,2025-09-24T00:08:18.000Z
+803967,male,43,black,Kwazulu Natal,Trace TV,2016/01/07 17:36,2025-09-24T00:00:00.000Z
+803967,male,43,black,Kwazulu Natal,Supersport Live Events,2016/01/08 14:49,2025-09-24T02:21:52.000Z
+803967,male,43,black,Kwazulu Natal,Supersport Live Events,2016/01/31 09:05,2025-09-24T00:02:00.000Z
+803967,male,43,black,Kwazulu Natal,Trace TV,2016/01/07 07:37,2025-09-24T01:18:24.000Z
+926675,male,27,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/30 08:50,2025-09-24T00:14:58.000Z
+866660,male,20,black,North West,ICC Cricket World Cup 2011,2016/03/13 13:30,2025-09-24T00:01:04.000Z
+809424,female,24,coloured,Western Cape,E! Entertainment,2016/02/22 18:59,2025-09-24T00:00:40.000Z
+803990,female,27,black,Free State,Supersport Live Events,2016/02/20 12:54,2025-09-24T00:02:26.000Z
+803990,female,27,black,Free State,Africa Magic,2016/02/18 14:27,2025-09-24T00:03:51.000Z
+940154,male,35,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/18 13:48,2025-09-24T00:10:44.000Z
+940154,male,35,indian_asian,Gauteng,SuperSport Blitz,2016/03/19 08:22,2025-09-24T00:00:16.000Z
+940154,male,35,indian_asian,Gauteng,SawSee,2016/03/26 18:48,2025-09-24T00:00:34.000Z
+772276,male,44,black,Eastern Cape,Supersport Live Events,2016/02/02 16:51,2025-09-24T00:03:18.000Z
+772277,male,48,black,Mpumalanga,Africa Magic,2016/03/12 19:02,2025-09-24T00:00:06.000Z
+905271,male,35,coloured,Eastern Cape,Supersport Live Events,2016/03/04 08:20,2025-09-24T00:04:24.000Z
+809449,male,24,coloured,Kwazulu Natal,Boomerang,2016/02/21 08:27,2025-09-24T00:01:37.000Z
+809449,male,24,coloured,Kwazulu Natal,Cartoon Network,2016/02/24 15:58,2025-09-24T00:01:47.000Z
+930568,male,27,indian_asian,Gauteng,CNN,2016/03/28 16:58,2025-09-24T00:01:05.000Z
+930568,male,27,indian_asian,Gauteng,SuperSport Blitz,2016/03/29 06:15,2025-09-24T00:02:14.000Z
+940176,male,31,black,Eastern Cape,Supersport Live Events,2016/01/06 09:26,2025-09-24T00:10:38.000Z
+1107089,male,33,white,Western Cape,DStv Events 1,2016/01/21 18:03,2025-09-24T00:01:30.000Z
+2287279,male,27,white,Gauteng,Cartoon Network,2016/02/02 20:45,2025-09-24T00:25:42.000Z
+809486,male,25,white,Gauteng,CNN,2016/02/22 07:14,2025-09-24T00:07:11.000Z
+893029,male,43,None,Western Cape,Supersport Live Events,2016/03/24 15:30,2025-09-24T01:02:10.000Z
+893029,male,43,None,Western Cape,ICC Cricket World Cup 2011,2016/03/20 15:37,2025-09-24T00:06:20.000Z
+893029,male,43,None,Western Cape,Supersport Live Events,2016/03/24 08:37,2025-09-24T00:56:42.000Z
+806823,male,37,black,Gauteng,Africa Magic,2016/02/21 08:20,2025-09-24T00:00:26.000Z
+930671,male,44,indian_asian,Gauteng,Cartoon Network,2016/03/31 16:39,2025-09-24T00:00:12.000Z
+930671,male,44,indian_asian,Gauteng,E! Entertainment,2016/03/30 17:53,2025-09-24T00:01:06.000Z
+940290,male,67,None,Gauteng,CNN,2016/03/13 17:12,2025-09-24T00:02:28.000Z
+940290,male,67,None,Gauteng,ICC Cricket World Cup 2011,2016/03/16 14:19,2025-09-24T02:09:54.000Z
+851376,male,19,white,Eastern Cape,ICC Cricket World Cup 2011,2016/03/09 10:45,2025-09-24T00:01:54.000Z
+793041,male,40,black,North West,Africa Magic,2016/02/16 11:48,2025-09-24T00:01:11.000Z
+789241,male,25,coloured,Northern Cape,Channel O,2016/02/21 09:20,2025-09-24T00:00:15.000Z
+789244,male,19,black,North West,E! Entertainment,2016/02/12 10:21,2025-09-24T00:00:10.000Z
+819656,male,45,black,Western Cape,Africa Magic,2016/02/26 18:39,2025-09-24T00:01:05.000Z
+786607,male,45,coloured,Western Cape,Supersport Live Events,2016/02/11 17:11,2025-09-24T00:02:54.000Z
+919808,male,20,black,Eastern Cape,M-Net,2016/03/25 11:47,2025-09-24T00:00:53.000Z
+590330,male,18,white,Mpumalanga,Boomerang,2016/01/06 23:13,2025-09-24T00:06:04.000Z
+809604,male,24,black,Western Cape,Trace TV,2016/02/20 22:50,2025-09-24T00:15:48.000Z
+809604,male,24,black,Western Cape,Trace TV,2016/02/21 06:32,2025-09-24T00:01:30.000Z
+809604,male,24,black,Western Cape,Boomerang,2016/03/18 20:54,2025-09-24T00:08:30.000Z
+809604,male,24,black,Western Cape,Boomerang,2016/03/18 21:24,2025-09-24T00:26:11.000Z
+809604,male,24,black,Western Cape,Trace TV,2016/02/07 19:13,2025-09-24T00:04:39.000Z
+809604,male,24,black,Western Cape,Cartoon Network,2016/02/28 15:22,2025-09-24T00:00:36.000Z
+809604,male,24,black,Western Cape,Trace TV,2016/03/01 05:44,2025-09-24T00:00:36.000Z
+940343,male,39,black,Mpumalanga,Channel O,2016/03/29 08:02,2025-09-24T00:02:45.000Z
+2415044,male,24,indian_asian,Northern Cape,ICC Cricket World Cup 2011,2016/03/29 13:20,2025-09-24T00:18:26.000Z
+804168,male,42,coloured,Gauteng,Channel O,2016/02/19 17:34,2025-09-24T00:01:42.000Z
+772449,male,25,white,Gauteng,Supersport Live Events,2016/01/23 15:25,2025-09-24T00:01:32.000Z
+789309,male,48,coloured,Western Cape,SuperSport Blitz,2016/02/21 19:32,2025-09-24T00:16:52.000Z
+789309,male,48,coloured,Western Cape,SuperSport Blitz,2016/03/24 17:57,2025-09-24T00:00:24.000Z
+789309,male,48,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/14 07:14,2025-09-24T00:00:22.000Z
+789309,male,48,coloured,Western Cape,SuperSport Blitz,2016/02/27 17:13,2025-09-24T00:00:34.000Z
+789309,male,48,coloured,Western Cape,Supersport Live Events,2016/02/12 09:57,2025-09-24T00:00:22.000Z
+789309,male,48,coloured,Western Cape,SuperSport Blitz,2016/03/26 07:27,2025-09-24T00:01:46.000Z
+821206,male,41,white,Gauteng,ICC Cricket World Cup 2011,2016/02/24 13:52,2025-09-24T00:02:34.000Z
+866891,male,37,indian_asian,Kwazulu Natal,SuperSport Blitz,2016/03/12 14:55,2025-09-24T00:00:24.000Z
+866891,male,37,indian_asian,Kwazulu Natal,Boomerang,2016/03/09 15:21,2025-09-24T00:00:51.000Z
+809648,male,18,black,Western Cape,Supersport Live Events,2016/02/20 12:41,2025-09-24T00:02:26.000Z
+809648,male,18,black,Western Cape,CNN,2016/02/21 05:31,2025-09-24T00:15:50.000Z
+866901,male,39,white,Gauteng,SuperSport Blitz,2016/03/18 08:58,2025-09-24T00:12:28.000Z
+866901,male,39,white,Gauteng,SuperSport Blitz,2016/03/31 09:25,2025-09-24T00:10:06.000Z
+866901,male,39,white,Gauteng,E! Entertainment,2016/03/29 16:35,2025-09-24T00:07:52.000Z
+772477,female,35,black,Kwazulu Natal,Africa Magic,2016/02/02 13:59,2025-09-24T00:00:56.000Z
+772477,female,35,black,Kwazulu Natal,Boomerang,2016/01/04 05:16,2025-09-24T00:30:49.000Z
+772477,female,35,black,Kwazulu Natal,Channel O,2016/01/07 11:00,2025-09-24T01:08:27.000Z
+772477,female,35,black,Kwazulu Natal,Africa Magic,2016/01/05 12:11,2025-09-24T00:00:00.000Z
+772477,female,35,black,Kwazulu Natal,Cartoon Network,2016/01/04 04:40,2025-09-24T00:01:12.000Z
+772477,female,35,black,Kwazulu Natal,Trace TV,2016/01/18 04:19,2025-09-24T00:48:15.000Z
+772477,female,35,black,Kwazulu Natal,Channel O,2016/01/04 07:51,2025-09-24T00:05:54.000Z
+772477,female,35,black,Kwazulu Natal,Channel O,2016/01/13 16:30,2025-09-24T00:44:09.000Z
+772477,female,35,black,Kwazulu Natal,E! Entertainment,2016/01/20 03:42,2025-09-24T00:13:18.000Z
+772477,female,35,black,Kwazulu Natal,Africa Magic,2016/01/15 05:17,2025-09-24T00:00:32.000Z
+772477,female,35,black,Kwazulu Natal,Channel O,2016/02/03 18:05,2025-09-24T00:12:03.000Z
+779980,male,46,coloured,Eastern Cape,Africa Magic,2016/02/04 06:34,2025-09-24T00:00:49.000Z
+817992,male,46,black,Kwazulu Natal,Africa Magic,2016/02/24 11:37,2025-09-24T00:00:34.000Z
+817992,male,46,black,Kwazulu Natal,Africa Magic,2016/02/25 13:54,2025-09-24T00:00:18.000Z
+940434,male,21,coloured,Western Cape,Cartoon Network,2016/03/31 00:03,2025-09-24T00:00:00.000Z
+940434,male,21,coloured,Western Cape,Boomerang,2016/03/31 06:40,2025-09-24T00:00:00.000Z
+940434,male,21,coloured,Western Cape,Boomerang,2016/03/31 12:59,2025-09-24T00:00:00.000Z
+940434,male,21,coloured,Western Cape,Cartoon Network,2016/03/30 18:15,2025-09-24T00:00:00.000Z
+940434,male,21,coloured,Western Cape,DStv Events 1,2016/03/29 20:17,2025-09-24T00:01:40.000Z
+2204160,male,34,None,Mpumalanga,CNN,2016/03/02 19:23,2025-09-24T00:37:20.000Z
+2204160,male,34,None,Mpumalanga,ICC Cricket World Cup 2011,2016/02/25 10:36,2025-09-24T00:09:02.000Z
+2204160,male,34,None,Mpumalanga,Supersport Live Events,2016/01/05 13:02,2025-09-24T00:00:00.000Z
+2204160,male,34,None,Mpumalanga,CNN,2016/01/12 15:50,2025-09-24T00:07:28.000Z
+2204160,male,34,None,Mpumalanga,ICC Cricket World Cup 2011,2016/03/07 12:55,2025-09-24T01:38:10.000Z
+2204160,male,34,None,Mpumalanga,ICC Cricket World Cup 2011,2016/02/23 14:14,2025-09-24T01:19:08.000Z
+2204160,male,34,None,Mpumalanga,ICC Cricket World Cup 2011,2016/02/28 12:18,2025-09-24T00:01:34.000Z
+2426887,male,40,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 14:10,2025-09-24T00:00:36.000Z
+832504,male,25,white,Gauteng,Supersport Live Events,2016/03/05 15:19,2025-09-24T00:04:58.000Z
+832504,male,25,white,Gauteng,Supersport Live Events,2016/02/18 08:01,2025-09-24T00:04:06.000Z
+772529,male,27,black,Gauteng,Supersport Live Events,2016/02/26 12:40,2025-09-24T00:00:54.000Z
+772529,male,27,black,Gauteng,Cartoon Network,2016/02/15 12:20,2025-09-24T00:00:47.000Z
+772529,male,27,black,Gauteng,Supersport Live Events,2016/02/14 20:11,2025-09-24T00:00:50.000Z
+772529,male,27,black,Gauteng,Cartoon Network,2016/01/17 11:18,2025-09-24T00:01:15.000Z
+772529,male,27,black,Gauteng,E! Entertainment,2016/01/17 07:57,2025-09-24T00:05:48.000Z
+772529,male,27,black,Gauteng,Supersport Live Events,2016/02/06 18:02,2025-09-24T00:50:58.000Z
+772529,male,27,black,Gauteng,Supersport Live Events,2016/03/06 14:23,2025-09-24T00:00:24.000Z
+809727,male,26,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/03/11 11:12,2025-09-24T00:10:24.000Z
+809727,male,26,indian_asian,Limpopo,SuperSport Blitz,2016/03/15 20:38,2025-09-24T00:01:10.000Z
+809759,male,37,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/02/24 10:00,2025-09-24T00:02:26.000Z
+2204253,male,36,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/30 15:13,2025-09-24T01:55:50.000Z
+930897,male,21,white,Mpumalanga,Cartoon Network,2016/03/28 15:30,2025-09-24T00:00:30.000Z
+930897,male,21,white,Mpumalanga,CNN,2016/03/28 07:53,2025-09-24T00:00:43.000Z
+930897,male,21,white,Mpumalanga,M-Net,2016/03/27 18:16,2025-09-24T00:00:14.000Z
+927246,male,29,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 08:36,2025-09-24T00:09:54.000Z
+927246,male,29,indian_asian,Gauteng,SuperSport Blitz,2016/03/29 20:11,2025-09-24T00:00:28.000Z
+2158646,male,33,black,Gauteng,SuperSport Live Events,2016/02/13 17:06,2025-09-24T00:00:00.000Z
+809787,female,34,black,Kwazulu Natal,Africa Magic,2016/02/09 13:38,2025-09-24T00:30:44.000Z
+2369790,male,26,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/02/19 14:57,2025-09-24T04:03:26.000Z
+2369790,male,26,indian_asian,Mpumalanga,Cartoon Network,2016/02/12 13:01,2025-09-24T00:00:32.000Z
+2369790,male,26,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/29 14:28,2025-09-24T00:00:06.000Z
+2369790,male,26,indian_asian,Mpumalanga,Africa Magic,2016/02/13 16:51,2025-09-24T00:01:30.000Z
+809817,male,27,black,Western Cape,Trace TV,2016/02/19 11:18,2025-09-24T00:02:06.000Z
+809817,male,27,black,Western Cape,Trace TV,2016/02/20 08:17,2025-09-24T00:02:30.000Z
+809817,male,27,black,Western Cape,Vuzu,2016/02/19 16:05,2025-09-24T00:00:35.000Z
+809817,male,27,black,Western Cape,E! Entertainment,2016/02/21 15:23,2025-09-24T00:06:10.000Z
+794277,male,33,black,Gauteng,Cartoon Network,2016/02/14 13:40,2025-09-24T00:02:35.000Z
+794277,male,33,black,Gauteng,SawSee,2016/02/14 19:18,2025-09-24T00:01:05.000Z
+2204358,male,52,coloured,Western Cape,Supersport Live Events,2016/03/04 08:13,2025-09-24T00:07:40.000Z
+2204358,male,52,coloured,Western Cape,Cartoon Network,2016/01/22 20:47,2025-09-24T00:18:50.000Z
+2204358,male,52,coloured,Western Cape,Supersport Live Events,2016/01/27 14:55,2025-09-24T00:31:20.000Z
+2204358,male,52,coloured,Western Cape,M-Net,2016/01/01 21:17,2025-09-24T00:00:09.000Z
+2204358,male,52,coloured,Western Cape,SuperSport Blitz,2016/02/12 12:20,2025-09-24T00:00:06.000Z
+2204358,male,52,coloured,Western Cape,SuperSport Blitz,2016/03/05 22:17,2025-09-24T02:09:52.000Z
+484936,male,37,black,Eastern Cape,Supersport Live Events,2016/01/22 13:49,2025-09-24T00:00:00.000Z
+940590,male,27,coloured,Western Cape,SuperSport Blitz,2016/03/28 16:00,2025-09-24T00:00:10.000Z
+940590,male,27,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/29 14:50,2025-09-24T00:00:22.000Z
+809853,female,46,None,Western Cape,Africa Magic,2016/02/04 09:35,2025-09-24T00:03:38.000Z
+809853,female,46,None,Western Cape,Africa Magic,2016/02/04 19:52,2025-09-24T00:17:43.000Z
+2369962,male,44,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/29 16:31,2025-09-24T00:26:18.000Z
+69707,male,34,indian_asian,Kwazulu Natal,SuperSport Blitz,2016/03/19 22:13,2025-09-24T00:01:50.000Z
+772665,male,34,black,Kwazulu Natal,Africa Magic,2016/02/06 15:41,2025-09-24T00:33:01.000Z
+772665,male,34,black,Kwazulu Natal,Boomerang,2016/02/03 19:26,2025-09-24T00:04:03.000Z
+920091,male,40,indian_asian,Gauteng,SuperSport Blitz,2016/03/22 21:25,2025-09-24T00:00:00.000Z
+103657,male,24,white,Mpumalanga,M-Net,2016/03/19 17:11,2025-09-24T00:02:58.000Z
+772685,male,36,black,Gauteng,Trace TV,2016/01/14 21:00,2025-09-24T00:00:33.000Z
+772685,male,36,black,Gauteng,Cartoon Network,2016/01/22 07:58,2025-09-24T00:00:20.000Z
+772685,male,36,black,Gauteng,Channel O,2016/01/17 18:05,2025-09-24T00:01:06.000Z
+772685,male,36,black,Gauteng,Supersport Live Events,2016/01/17 04:34,2025-09-24T00:00:44.000Z
+772685,male,36,black,Gauteng,Supersport Live Events,2016/01/09 15:18,2025-09-24T00:36:10.000Z
+596969,female,33,black,Gauteng,Cartoon Network,2016/01/04 17:43,2025-09-24T00:01:47.000Z
+596969,female,33,black,Gauteng,Trace TV,2016/01/08 20:54,2025-09-24T00:00:15.000Z
+832751,male,22,indian_asian,Kwazulu Natal,Cartoon Network,2016/03/03 11:33,2025-09-24T00:05:00.000Z
+832751,male,22,indian_asian,Kwazulu Natal,Trace TV,2016/01/13 02:10,2025-09-24T01:14:24.000Z
+832751,male,22,indian_asian,Kwazulu Natal,Trace TV,2016/01/14 18:38,2025-09-24T00:13:33.000Z
+832751,male,22,indian_asian,Kwazulu Natal,Trace TV,2016/01/09 00:01,2025-09-24T00:02:45.000Z
+832751,male,22,indian_asian,Kwazulu Natal,Cartoon Network,2016/02/28 07:20,2025-09-24T00:06:11.000Z
+809908,male,9,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/02/20 19:56,2025-09-24T00:00:46.000Z
+809908,male,9,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/03/14 12:00,2025-09-24T00:11:30.000Z
+809908,male,9,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/03/18 14:53,2025-09-24T02:06:24.000Z
+809908,male,9,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/03/18 10:20,2025-09-24T00:28:02.000Z
+809908,male,9,indian_asian,Eastern Cape,Africa Magic,2016/03/20 08:00,2025-09-24T00:00:14.000Z
+809908,male,9,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/03/20 16:35,2025-09-24T00:05:28.000Z
+809908,male,9,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/03/06 08:35,2025-09-24T00:05:54.000Z
+809908,male,9,indian_asian,Eastern Cape,Africa Magic,2016/03/09 11:02,2025-09-24T00:00:23.000Z
+804459,female,30,black,Gauteng,SawSee,2016/03/02 15:59,2025-09-24T00:01:16.000Z
+804459,female,30,black,Gauteng,Trace TV,2016/03/06 20:21,2025-09-24T00:22:15.000Z
+1107941,male,21,white,Gauteng,Trace TV,2016/01/19 10:24,2025-09-24T00:01:00.000Z
+268737,male,23,black,Gauteng,Supersport Live Events,2016/01/10 20:15,2025-09-24T00:01:36.000Z
+867252,male,22,indian_asian,Gauteng,DStv Events 1,2016/03/09 17:26,2025-09-24T00:01:45.000Z
+1072207,male,65,white,Northern Cape,E! Entertainment,2016/01/10 17:43,2025-09-24T00:00:00.000Z
+793232,male,27,black,North West,Africa Magic,2016/02/16 07:21,2025-09-24T00:00:17.000Z
+927629,male,25,indian_asian,Gauteng,Supersport Live Events,2016/03/30 14:31,2025-09-24T00:00:46.000Z
+831314,male,19,black,North West,Cartoon Network,2016/03/03 16:20,2025-09-24T00:01:01.000Z
+831314,male,19,black,North West,Cartoon Network,2016/03/05 17:46,2025-09-24T00:01:26.000Z
+832862,male,33,black,Gauteng,SuperSport Blitz,2016/03/03 14:47,2025-09-24T00:00:00.000Z
+832862,male,33,black,Gauteng,Channel O,2016/02/01 15:06,2025-09-24T00:27:03.000Z
+832862,male,33,black,Gauteng,Trace TV,2016/03/01 09:58,2025-09-24T00:04:57.000Z
+582217,male,34,black,Mpumalanga,Channel O,2016/01/01 21:04,2025-09-24T00:00:27.000Z
+940794,male,33,white,Mpumalanga,SuperSport Blitz,2016/03/30 08:54,2025-09-24T00:00:54.000Z
+940794,male,33,white,Mpumalanga,DStv Events 1,2016/03/29 21:58,2025-09-24T00:00:45.000Z
+940797,male,44,coloured,Eastern Cape,Cartoon Network,2016/03/04 19:02,2025-09-24T00:00:26.000Z
+940797,male,44,coloured,Eastern Cape,ICC Cricket World Cup 2011,2016/03/01 10:31,2025-09-24T00:04:32.000Z
+931222,male,26,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/03/30 04:53,2025-09-24T00:00:22.000Z
+931222,male,26,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/03/29 17:12,2025-09-24T00:00:58.000Z
+931222,male,26,indian_asian,Limpopo,Supersport Live Events,2016/03/29 17:40,2025-09-24T00:01:20.000Z
+940811,male,47,coloured,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/16 12:33,2025-09-24T00:10:38.000Z
+867337,None,0,None,None,ICC Cricket World Cup 2011,2016/03/18 13:58,2025-09-24T00:00:16.000Z
+867340,male,27,black,Gauteng,Supersport Live Events,2016/03/24 14:46,2025-09-24T00:35:42.000Z
+867340,male,27,black,Gauteng,Cartoon Network,2016/03/14 14:12,2025-09-24T00:02:00.000Z
+867340,male,27,black,Gauteng,ICC Cricket World Cup 2011,2016/03/15 12:04,2025-09-24T03:31:10.000Z
+810051,female,22,indian_asian,Gauteng,Cartoon Network,2016/02/18 11:22,2025-09-24T00:00:15.000Z
+810051,female,22,indian_asian,Gauteng,SuperSport Blitz,2016/02/19 20:41,2025-09-24T00:03:30.000Z
+810051,female,22,indian_asian,Gauteng,SuperSport Blitz,2016/02/18 12:28,2025-09-24T00:00:26.000Z
+810051,female,22,indian_asian,Gauteng,Cartoon Network,2016/02/18 18:17,2025-09-24T00:19:44.000Z
+810051,female,22,indian_asian,Gauteng,E! Entertainment,2016/03/06 19:44,2025-09-24T00:00:42.000Z
+810051,female,22,indian_asian,Gauteng,SuperSport Blitz,2016/02/27 19:18,2025-09-24T00:02:36.000Z
+789766,male,18,black,Free State,Supersport Live Events,2016/02/12 12:39,2025-09-24T00:04:12.000Z
+931322,male,30,indian_asian,Limpopo,Boomerang,2016/03/31 21:08,2025-09-24T00:00:54.000Z
+832976,male,50,indian_asian,Gauteng,Supersport Live Events,2016/03/24 15:46,2025-09-24T00:05:58.000Z
+881496,male,42,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/05 19:05,2025-09-24T00:00:46.000Z
+51888,female,24,black,Mpumalanga,SawSee,2016/01/06 07:02,2025-09-24T00:00:47.000Z
+51888,female,24,black,Mpumalanga,Cartoon Network,2016/01/08 06:05,2025-09-24T00:00:34.000Z
+892225,male,36,None,Western Cape,SuperSport Blitz,2016/03/22 18:42,2025-09-24T00:03:52.000Z
+892225,male,36,None,Western Cape,Cartoon Network,2016/03/22 21:20,2025-09-24T00:00:00.000Z
+927910,male,35,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/29 06:48,2025-09-24T00:00:24.000Z
+803004,None,0,None,None,ICC Cricket World Cup 2011,2016/03/30 17:00,2025-09-24T00:11:44.000Z
+2370560,male,31,coloured,Eastern Cape,Boomerang,2016/01/05 00:49,2025-09-24T00:00:37.000Z
+2370560,male,31,coloured,Eastern Cape,Supersport Live Events,2016/01/06 03:47,2025-09-24T00:09:36.000Z
+2370560,male,31,coloured,Eastern Cape,ICC Cricket World Cup 2011,2016/03/05 11:26,2025-09-24T00:00:58.000Z
+821816,male,35,black,Gauteng,SuperSport Blitz,2016/02/04 19:51,2025-09-24T00:01:32.000Z
+821816,male,35,black,Gauteng,SuperSport Blitz,2016/01/29 18:30,2025-09-24T00:00:24.000Z
+831413,male,25,black,North West,SawSee,2016/03/13 05:58,2025-09-24T00:00:14.000Z
+831413,male,25,black,North West,Channel O,2016/03/14 16:11,2025-09-24T00:00:48.000Z
+831413,male,25,black,North West,Channel O,2016/03/04 04:15,2025-09-24T00:02:03.000Z
+831413,male,25,black,North West,E! Entertainment,2016/03/04 18:53,2025-09-24T00:00:40.000Z
+831413,male,25,black,North West,Channel O,2016/03/12 20:21,2025-09-24T00:05:09.000Z
+941003,male,24,black,Gauteng,CNN,2016/03/24 19:44,2025-09-24T00:01:11.000Z
+941003,male,24,black,Gauteng,Boomerang,2016/03/31 13:09,2025-09-24T00:00:00.000Z
+941003,male,24,black,Gauteng,Channel O,2016/03/25 06:55,2025-09-24T00:00:42.000Z
+810168,male,32,black,Gauteng,SuperSport Blitz,2016/02/19 17:40,2025-09-24T00:03:34.000Z
+810169,male,31,white,Eastern Cape,Supersport Live Events,2016/02/19 15:28,2025-09-24T00:00:34.000Z
+810169,male,31,white,Eastern Cape,Cartoon Network,2016/02/19 15:32,2025-09-24T00:01:34.000Z
+810169,male,31,white,Eastern Cape,Trace TV,2016/02/21 13:19,2025-09-24T00:05:36.000Z
+893717,male,23,black,Limpopo,Africa Magic,2016/03/20 13:21,2025-09-24T00:00:31.000Z
+772983,male,46,None,Gauteng,Supersport Live Events,2016/02/04 13:49,2025-09-24T00:00:04.000Z
+893730,male,25,black,Eastern Cape,SuperSport Blitz,2016/03/19 14:42,2025-09-24T00:00:26.000Z
+893730,male,25,black,Eastern Cape,SawSee,2016/03/19 13:33,2025-09-24T00:00:51.000Z
+893730,male,25,black,Eastern Cape,Channel O,2016/03/25 09:24,2025-09-24T00:01:00.000Z
+773002,male,25,black,Gauteng,Cartoon Network,2016/02/09 10:53,2025-09-24T00:02:07.000Z
+773002,male,25,black,Gauteng,Trace TV,2016/02/09 06:29,2025-09-24T00:01:21.000Z
+773002,male,25,black,Gauteng,Channel O,2016/02/09 07:14,2025-09-24T00:04:03.000Z
+773002,male,25,black,Gauteng,kykNET,2016/02/03 17:33,2025-09-24T00:01:30.000Z
+773002,male,25,black,Gauteng,Boomerang,2016/02/03 17:40,2025-09-24T00:00:29.000Z
+773002,male,25,black,Gauteng,Cartoon Network,2016/02/03 18:20,2025-09-24T00:01:47.000Z
+849265,male,22,None,Gauteng,Channel O,2016/03/07 04:42,2025-09-24T00:00:00.000Z
+2370690,male,26,indian_asian,Limpopo,SuperSport Blitz,2016/02/14 08:11,2025-09-24T00:09:22.000Z
+941116,male,31,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/30 16:51,2025-09-24T01:41:50.000Z
+941116,male,31,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/30 11:08,2025-09-24T00:00:30.000Z
+941116,male,31,indian_asian,Mpumalanga,Africa Magic,2016/03/29 19:49,2025-09-24T00:01:33.000Z
+773052,male,49,coloured,Gauteng,Supersport Live Events,2016/02/07 15:19,2025-09-24T00:00:42.000Z
+809331,male,49,indian_asian,Western Cape,SuperSport Blitz,2016/02/13 23:43,2025-09-24T00:11:06.000Z
+2361615,male,44,None,Mpumalanga,Africa Magic,2016/01/04 02:59,2025-09-24T00:17:54.000Z
+773059,male,38,black,Mpumalanga,MK,2016/02/03 00:30,2025-09-24T00:01:31.000Z
+794647,male,40,white,Gauteng,Cartoon Network,2016/02/19 16:33,2025-09-24T00:11:29.000Z
+794647,male,40,white,Gauteng,Boomerang,2016/01/02 09:33,2025-09-24T00:06:45.000Z
+794647,male,40,white,Gauteng,Africa Magic,2016/01/04 16:16,2025-09-24T00:00:07.000Z
+925648,male,34,indian_asian,Gauteng,Supersport Live Events,2016/03/30 14:46,2025-09-24T00:01:34.000Z
+931586,male,33,indian_asian,Gauteng,Boomerang,2016/03/30 23:04,2025-09-24T00:00:11.000Z
+907264,male,32,black,Gauteng,Africa Magic,2016/03/26 13:58,2025-09-24T00:15:47.000Z
+810307,male,22,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/02/24 09:31,2025-09-24T00:03:30.000Z
+810307,male,22,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/02/24 11:04,2025-09-24T00:03:58.000Z
+810307,male,22,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/02/24 09:15,2025-09-24T00:03:26.000Z
+582393,male,30,indian_asian,Kwazulu Natal,Trace TV,2016/01/01 14:57,2025-09-24T00:00:15.000Z
+623435,male,46,white,Kwazulu Natal,Supersport Live Events,2016/01/21 04:06,2025-09-24T00:00:00.000Z
+780483,male,29,black,Mpumalanga,Supersport Live Events,2016/01/15 16:26,2025-09-24T00:03:14.000Z
+780483,male,29,black,Mpumalanga,Boomerang,2016/01/18 11:29,2025-09-24T00:17:15.000Z
+2259942,male,26,black,Mpumalanga,Vuzu,2016/02/21 19:16,2025-09-24T00:01:40.000Z
+2259942,male,26,black,Mpumalanga,Channel O,2016/02/21 19:48,2025-09-24T00:02:39.000Z
+2259942,male,26,black,Mpumalanga,Channel O,2016/02/05 13:06,2025-09-24T00:46:27.000Z
+2259942,male,26,black,Mpumalanga,SawSee,2016/02/06 20:18,2025-09-24T00:00:00.000Z
+2259942,male,26,black,Mpumalanga,Channel O,2016/03/16 16:08,2025-09-24T00:15:33.000Z
+2259942,male,26,black,Mpumalanga,Africa Magic,2016/03/01 14:06,2025-09-24T00:03:48.000Z
+2288634,male,25,coloured,Western Cape,ICC Cricket World Cup 2011,2016/02/22 15:23,2025-09-24T00:18:54.000Z
+2288634,male,25,coloured,Western Cape,Supersport Live Events,2016/02/25 09:51,2025-09-24T00:04:16.000Z
+810333,male,24,indian_asian,Limpopo,E! Entertainment,2016/02/21 19:51,2025-09-24T00:01:56.000Z
+810333,male,24,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/02/25 07:39,2025-09-24T00:38:26.000Z
+928256,male,20,coloured,Gauteng,ICC Cricket World Cup 2011,2016/03/30 09:11,2025-09-24T00:06:24.000Z
+928256,male,20,coloured,Gauteng,ICC Cricket World Cup 2011,2016/03/30 14:54,2025-09-24T00:58:02.000Z
+833257,male,30,indian_asian,Kwazulu Natal,Break in transmission,2016/03/01 19:43,2025-09-24T00:00:15.000Z
+810346,male,30,black,Kwazulu Natal,Channel O,2016/02/18 15:55,2025-09-24T00:52:12.000Z
+2415188,male,37, ,Gauteng,ICC Cricket World Cup 2011,2016/03/30 06:13,2025-09-24T00:05:46.000Z
+2415188,male,37, ,Gauteng,CNN,2016/03/30 07:34,2025-09-24T00:00:47.000Z
+893882,male,33,indian_asian,Kwazulu Natal,Supersport Live Events,2016/03/24 13:42,2025-09-24T00:36:10.000Z
+867693,None,0,None,None,SawSee,2016/03/14 21:47,2025-09-24T00:00:26.000Z
+2428163,male,48,black,Western Cape,Supersport Live Events,2016/02/19 18:12,2025-09-24T00:01:04.000Z
+822062,male,27,coloured,Free State,Africa Magic,2016/02/20 19:25,2025-09-24T00:00:19.000Z
+822062,male,27,coloured,Free State,Boomerang,2016/02/16 07:09,2025-09-24T00:00:23.000Z
+822062,male,27,coloured,Free State,Supersport Live Events,2016/02/17 14:52,2025-09-24T00:00:30.000Z
+822067,male,38,coloured,Gauteng,Supersport Live Events,2016/03/07 23:36,2025-09-24T00:00:34.000Z
+822067,male,38,coloured,Gauteng,ICC Cricket World Cup 2011,2016/03/20 14:41,2025-09-24T00:01:06.000Z
+820119,male,25,indian_asian,Limpopo,Trace TV,2016/03/24 06:33,2025-09-24T00:00:12.000Z
+820119,male,25,indian_asian,Limpopo,Supersport Live Events,2016/03/24 09:23,2025-09-24T00:08:10.000Z
+773163,female,26,black,Western Cape,Boomerang,2016/02/06 08:53,2025-09-24T00:03:50.000Z
+773163,female,26,black,Western Cape,E! Entertainment,2016/02/28 21:54,2025-09-24T00:29:34.000Z
+773163,female,26,black,Western Cape,ICC Cricket World Cup 2011,2016/02/28 13:26,2025-09-24T00:05:00.000Z
+893914,male,39,black,Mpumalanga,CNN,2016/02/21 13:54,2025-09-24T00:01:24.000Z
+893914,male,39,black,Mpumalanga,Africa Magic,2016/02/21 12:05,2025-09-24T00:00:15.000Z
+804936,male,38,black,Gauteng,CNN,2016/02/21 07:26,2025-09-24T00:00:34.000Z
+2361784,male,26,coloured,Western Cape,Trace TV,2016/01/03 12:23,2025-09-24T00:04:30.000Z
+803159,male,30,black,Gauteng,Trace TV,2016/03/19 11:41,2025-09-24T00:00:33.000Z
+803159,male,30,black,Gauteng,SuperSport Blitz,2016/03/20 12:36,2025-09-24T00:00:32.000Z
+780546,male,45,black,Gauteng,CNN,2016/03/06 12:07,2025-09-24T00:21:27.000Z
+780546,male,45,black,Gauteng,CNN,2016/03/20 15:49,2025-09-24T00:49:21.000Z
+780546,male,45,black,Gauteng,CNN,2016/03/25 19:56,2025-09-24T00:25:09.000Z
+2361806,male,25,black,Limpopo,Channel O,2016/03/18 13:21,2025-09-24T00:08:18.000Z
+2361806,male,25,black,Limpopo,Africa Magic,2016/03/10 06:44,2025-09-24T00:00:01.000Z
+720646,male,25,white,North West,Supersport Live Events,2016/01/19 10:23,2025-09-24T00:00:16.000Z
+877370,male,29,other,Western Cape,SuperSport Blitz,2016/03/17 15:22,2025-09-24T00:00:00.000Z
+903467,female,47,white,Western Cape,Boomerang,2016/03/25 13:18,2025-09-24T00:05:31.000Z
+2092115,male,49,black,Mpumalanga,Boomerang,2016/02/14 11:49,2025-09-24T00:37:48.000Z
+2092115,male,49,black,Mpumalanga,Cartoon Network,2016/02/02 12:04,2025-09-24T00:00:08.000Z
+2092115,male,49,black,Mpumalanga,Boomerang,2016/02/02 11:32,2025-09-24T00:08:28.000Z
+2092115,male,49,black,Mpumalanga,Boomerang,2016/01/08 14:23,2025-09-24T00:01:13.000Z
+2092115,male,49,black,Mpumalanga,Cartoon Network,2016/01/16 14:39,2025-09-24T00:09:58.000Z
+2092115,male,49,black,Mpumalanga,Boomerang,2016/01/15 11:16,2025-09-24T00:24:53.000Z
+2092115,male,49,black,Mpumalanga,Boomerang,2016/01/28 18:50,2025-09-24T00:05:47.000Z
+2092115,male,49,black,Mpumalanga,Cartoon Network,2016/01/14 16:44,2025-09-24T00:58:45.000Z
+2092115,male,49,black,Mpumalanga,Cartoon Network,2016/01/22 08:07,2025-09-24T00:11:43.000Z
+2092115,male,49,black,Mpumalanga,Boomerang,2016/03/05 07:44,2025-09-24T00:12:00.000Z
+2092115,male,49,black,Mpumalanga,Cartoon Network,2016/01/28 19:22,2025-09-24T00:18:36.000Z
+2092115,male,49,black,Mpumalanga,Supersport Live Events,2016/03/06 17:01,2025-09-24T00:00:28.000Z
+2092115,male,49,black,Mpumalanga,Boomerang,2016/03/29 16:33,2025-09-24T00:00:07.000Z
+861217,female,47,None,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/26 13:31,2025-09-24T04:36:12.000Z
+2371031,male,55,coloured,Western Cape,SuperSport Blitz,2016/02/15 20:49,2025-09-24T00:00:30.000Z
+2371031,male,55,coloured,Western Cape,SuperSport Blitz,2016/01/19 17:46,2025-09-24T00:02:32.000Z
+2371031,male,55,coloured,Western Cape,Supersport Live Events,2016/01/23 15:09,2025-09-24T00:06:18.000Z
+611044,male,34,indian_asian,Gauteng,Cartoon Network,2016/03/28 15:52,2025-09-24T00:00:00.000Z
+600435,male,36,black,Western Cape,DStv Events 1,2016/01/11 10:17,2025-09-24T00:24:55.000Z
+600435,male,36,black,Western Cape,Boomerang,2016/01/08 05:38,2025-09-24T00:02:30.000Z
+2371059,male,16,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/23 09:00,2025-09-24T00:05:50.000Z
+2371059,male,16,indian_asian,Gauteng,SuperSport Blitz,2016/03/20 17:47,2025-09-24T00:08:54.000Z
+2371059,male,16,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 11:53,2025-09-24T00:02:30.000Z
+2371059,male,16,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 10:08,2025-09-24T00:02:24.000Z
+2361963,male,45,white,Gauteng,ICC Cricket World Cup 2011,2016/02/19 13:36,2025-09-24T00:42:40.000Z
+593270,female,33,white,North West,DStv Events 1,2016/01/02 17:39,2025-09-24T00:15:55.000Z
+870488,male,18,coloured,Western Cape,Supersport Live Events,2016/03/04 05:35,2025-09-24T00:00:08.000Z
+870488,male,18,coloured,Western Cape,E! Entertainment,2016/03/05 20:19,2025-09-24T00:00:00.000Z
+2216498,male,59,white,North West,ICC Cricket World Cup 2011,2016/03/25 13:21,2025-09-24T00:00:50.000Z
+2371074,male,41,black,Western Cape,Boomerang,2016/02/14 04:55,2025-09-24T00:17:53.000Z
+2371074,male,41,black,Western Cape,Boomerang,2016/02/02 18:14,2025-09-24T00:16:08.000Z
+2371074,male,41,black,Western Cape,Channel O,2016/02/07 14:12,2025-09-24T00:01:51.000Z
+2371074,male,41,black,Western Cape,E! Entertainment,2016/01/21 12:45,2025-09-24T00:00:30.000Z
+2371074,male,41,black,Western Cape,Boomerang,2016/02/17 16:06,2025-09-24T00:14:42.000Z
+2371074,male,41,black,Western Cape,Boomerang,2016/01/19 15:12,2025-09-24T00:07:17.000Z
+2371074,male,41,black,Western Cape,Boomerang,2016/01/21 11:40,2025-09-24T00:07:33.000Z
+2371074,male,41,black,Western Cape,Boomerang,2016/03/15 15:00,2025-09-24T00:26:33.000Z
+2371074,male,41,black,Western Cape,Cartoon Network,2016/03/01 17:00,2025-09-24T00:16:12.000Z
+102190,male,42,white,Gauteng,ICC Cricket World Cup 2011,2016/03/25 15:40,2025-09-24T00:02:40.000Z
+941456,male,20,coloured,Eastern Cape,Vuzu,2016/03/21 23:43,2025-09-24T00:00:23.000Z
+941456,male,20,coloured,Eastern Cape,Supersport Live Events,2016/03/11 18:17,2025-09-24T01:30:12.000Z
+1109229,male,25,coloured,Western Cape,Trace TV,2016/03/08 07:58,2025-09-24T00:04:42.000Z
+1109229,male,25,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/23 08:30,2025-09-24T00:00:40.000Z
+1109229,male,25,coloured,Western Cape,Trace TV,2016/03/19 03:00,2025-09-24T00:02:57.000Z
+1109229,male,25,coloured,Western Cape,Supersport Live Events,2016/03/20 15:08,2025-09-24T00:00:14.000Z
+1109229,male,25,coloured,Western Cape,Boomerang,2016/03/28 09:55,2025-09-24T00:04:11.000Z
+1109229,male,25,coloured,Western Cape,Cartoon Network,2016/03/27 19:03,2025-09-24T00:00:45.000Z
+833521,male,33,black,North West,Trace TV,2016/03/02 11:40,2025-09-24T00:01:48.000Z
+792539,male,31,white,Free State,ICC Cricket World Cup 2011,2016/02/20 10:28,2025-09-24T00:01:08.000Z
+941488,male,39,indian_asian,Gauteng,Supersport Live Events,2016/03/28 18:10,2025-09-24T00:01:26.000Z
+941488,male,39,indian_asian,Gauteng,Cartoon Network,2016/03/29 08:12,2025-09-24T00:25:30.000Z
+941488,male,39,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/29 10:03,2025-09-24T00:00:00.000Z
+833528,male,42,black,Gauteng,ICC Cricket World Cup 2011,2016/03/13 15:34,2025-09-24T02:35:02.000Z
+833528,male,42,black,Gauteng,Supersport Live Events,2016/01/15 15:09,2025-09-24T00:00:00.000Z
+833528,male,42,black,Gauteng,ICC Cricket World Cup 2011,2016/03/06 07:17,2025-09-24T01:18:48.000Z
+2371138,male,26,coloured,Western Cape,Trace TV,2016/02/15 10:01,2025-09-24T00:09:27.000Z
+2371138,male,26,coloured,Western Cape,Trace TV,2016/01/30 10:58,2025-09-24T00:10:51.000Z
+822334,male,22,indian_asian,Gauteng,M-Net,2016/02/24 21:07,2025-09-24T00:02:11.000Z
+822334,male,22,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/02/24 09:35,2025-09-24T00:02:30.000Z
+822334,male,22,indian_asian,Gauteng,Boomerang,2016/02/25 17:09,2025-09-24T00:07:47.000Z
+822334,male,22,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/02/24 09:20,2025-09-24T00:02:30.000Z
+822334,male,22,indian_asian,Gauteng,SuperSport Blitz,2016/02/24 18:29,2025-09-24T00:01:12.000Z
+822334,male,22,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/02/24 13:25,2025-09-24T00:01:40.000Z
+822334,male,22,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/02/27 12:53,2025-09-24T01:08:18.000Z
+822334,male,22,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/02/28 12:22,2025-09-24T00:32:40.000Z
+822334,male,22,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 10:34,2025-09-24T00:01:38.000Z
+894090,male,37,None,Mpumalanga,Channel O,2016/01/06 10:17,2025-09-24T00:17:21.000Z
+2288980,male,33,indian_asian,Gauteng,Trace TV,2016/03/29 19:19,2025-09-24T00:00:54.000Z
+773393,male,17,white,Western Cape,Channel O,2016/02/02 06:43,2025-09-24T00:02:21.000Z
+773393,male,17,white,Western Cape,Channel O,2016/02/04 20:05,2025-09-24T00:01:15.000Z
+810587,male,52,black,Kwazulu Natal,Channel O,2016/02/05 19:29,2025-09-24T00:02:15.000Z
+810587,male,52,black,Kwazulu Natal,Supersport Live Events,2016/03/03 10:58,2025-09-24T00:00:44.000Z
+810587,male,52,black,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/03 08:50,2025-09-24T00:04:40.000Z
+810587,male,52,black,Kwazulu Natal,Supersport Live Events,2016/03/12 18:42,2025-09-24T00:00:36.000Z
+810587,male,52,black,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/01 10:05,2025-09-24T00:01:08.000Z
+805172,male,33,black,Gauteng,SuperSport Blitz,2016/02/16 19:23,2025-09-24T00:02:12.000Z
+2216581,male,47,black,Eastern Cape,Channel O,2016/03/13 04:48,2025-09-24T00:10:03.000Z
+2216581,male,47,black,Eastern Cape,Channel O,2016/02/23 11:29,2025-09-24T00:05:15.000Z
+2216581,male,47,black,Eastern Cape,Channel O,2016/03/21 00:32,2025-09-24T00:57:27.000Z
+2422954,male,36,coloured,Western Cape,Trace TV,2016/01/13 06:02,2025-09-24T00:23:09.000Z
+822366,female,40,black,Mpumalanga,Trace TV,2016/02/26 18:57,2025-09-24T00:00:06.000Z
+840081,male,26,black,Gauteng,Supersport Live Events,2016/03/03 21:38,2025-09-24T00:00:00.000Z
+840081,male,26,black,Gauteng,Trace TV,2016/03/03 20:49,2025-09-24T00:00:48.000Z
+840081,male,26,black,Gauteng,Channel O,2016/03/04 19:02,2025-09-24T01:47:00.000Z
+819048,male,27,None,Eastern Cape,Supersport Live Events,2016/03/19 15:11,2025-09-24T00:07:50.000Z
+667632,male,34,None,Western Cape,Cartoon Network,2016/01/16 18:25,2025-09-24T00:04:41.000Z
+822376,male,38,coloured,Western Cape,ICC Cricket World Cup 2011,2016/02/24 10:22,2025-09-24T00:03:46.000Z
+810604,male,47,None,Gauteng,CNN,2016/03/08 10:09,2025-09-24T00:00:59.000Z
+810604,male,47,None,Gauteng,CNN,2016/02/16 19:45,2025-09-24T00:02:50.000Z
+810604,male,47,None,Gauteng,Supersport Live Events,2016/03/06 20:31,2025-09-24T00:00:24.000Z
+810604,male,47,None,Gauteng,Boomerang,2016/03/26 11:42,2025-09-24T00:01:12.000Z
+810605,male,31,indian_asian,Limpopo,Supersport Live Events,2016/02/19 14:55,2025-09-24T00:01:30.000Z
+810605,male,31,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/03/23 12:30,2025-09-24T00:00:40.000Z
+810605,male,31,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/03/30 16:42,2025-09-24T01:17:44.000Z
+810611,male,39,coloured,Mpumalanga,ICC Cricket World Cup 2011,2016/02/22 16:21,2025-09-24T00:01:36.000Z
+810611,male,39,coloured,Mpumalanga,SuperSport Blitz,2016/03/08 15:20,2025-09-24T00:03:44.000Z
+773431,female,24,indian_asian,Kwazulu Natal,Channel O,2016/01/28 21:28,2025-09-24T00:04:42.000Z
+773431,female,24,indian_asian,Kwazulu Natal,Boomerang,2016/01/20 15:42,2025-09-24T00:02:10.000Z
+729345,male,44,white,Gauteng,Boomerang,2016/03/20 04:41,2025-09-24T00:01:36.000Z
+852672,male,45,black,Mpumalanga,SuperSport Blitz,2016/03/05 10:49,2025-09-24T00:06:22.000Z
+852672,male,45,black,Mpumalanga,SuperSport Blitz,2016/03/05 10:53,2025-09-24T00:00:14.000Z
+822416,male,51,indian_asian,Gauteng,Supersport Live Events,2016/02/26 06:53,2025-09-24T00:03:08.000Z
+822416,male,51,indian_asian,Gauteng,Supersport Live Events,2016/01/29 11:59,2025-09-24T00:03:28.000Z
+822416,male,51,indian_asian,Gauteng,E! Entertainment,2016/02/12 13:36,2025-09-24T00:01:16.000Z
+852681,male,29,white,Free State,Supersport Live Events,2016/03/03 10:21,2025-09-24T00:00:16.000Z
+810648,male,43,indian_asian,Kwazulu Natal,Trace TV,2016/02/24 14:54,2025-09-24T00:00:54.000Z
+790440,male,16,black,Gauteng,Trace TV,2016/01/19 05:38,2025-09-24T00:01:00.000Z
+882193,female,33,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/15 10:05,2025-09-24T00:02:40.000Z
+882193,female,33,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/25 10:22,2025-09-24T00:17:54.000Z
+773504,male,51,None,Kwazulu Natal,Supersport Live Events,2016/02/05 13:55,2025-09-24T00:02:24.000Z
+755058,male,40,white,Eastern Cape,Cartoon Network,2016/01/23 07:59,2025-09-24T00:01:36.000Z
+805296,male,67,None,Gauteng,SuperSport Blitz,2016/02/19 19:09,2025-09-24T00:16:56.000Z
+805310,male,39,black,Gauteng,Africa Magic,2016/01/07 14:55,2025-09-24T00:02:27.000Z
+805310,male,39,black,Gauteng,Boomerang,2016/03/31 19:47,2025-09-24T00:01:57.000Z
+2423099,female,36,black,Western Cape,Africa Magic,2016/02/19 14:54,2025-09-24T00:00:11.000Z
+2423099,female,36,black,Western Cape,Channel O,2016/02/13 22:00,2025-09-24T00:09:09.000Z
+2423099,female,36,black,Western Cape,CNN,2016/02/12 16:52,2025-09-24T00:00:11.000Z
+773530,male,46,black,Kwazulu Natal,SuperSport Blitz,2016/01/30 07:23,2025-09-24T00:00:16.000Z
+773540,male,34,coloured,Western Cape,Supersport Live Events,2016/01/21 14:09,2025-09-24T00:07:38.000Z
+773540,male,34,coloured,Western Cape,Trace TV,2016/01/19 19:15,2025-09-24T00:04:09.000Z
+773540,male,34,coloured,Western Cape,Supersport Live Events,2016/01/29 18:56,2025-09-24T00:00:12.000Z
+370331,female,39,white,Gauteng,ICC Cricket World Cup 2011,2016/02/24 10:37,2025-09-24T00:03:58.000Z
+370331,female,39,white,Gauteng,ICC Cricket World Cup 2011,2016/02/24 10:10,2025-09-24T00:03:40.000Z
+894104,male,25,coloured,Western Cape,SuperSport Blitz,2016/03/21 09:36,2025-09-24T00:00:24.000Z
+820310,male,29,white,Gauteng,Supersport Live Events,2016/03/06 12:59,2025-09-24T00:00:18.000Z
+814007,male,31,white,Gauteng,ICC Cricket World Cup 2011,2016/02/24 12:58,2025-09-24T00:03:04.000Z
+773570,male,43,None,Gauteng,ICC Cricket World Cup 2011,2016/03/15 16:44,2025-09-24T00:02:22.000Z
+929024,male,68,white,Gauteng,Supersport Live Events,2016/03/24 09:34,2025-09-24T00:15:18.000Z
+894256,male,56,white,Gauteng,CNN,2016/03/23 11:14,2025-09-24T00:00:15.000Z
+894256,male,56,white,Gauteng,Supersport Live Events,2016/03/24 06:22,2025-09-24T00:17:24.000Z
+810770,male,25,coloured,Western Cape,Trace TV,2016/02/21 08:44,2025-09-24T00:00:00.000Z
+810770,male,25,coloured,Western Cape,E! Entertainment,2016/02/20 21:00,2025-09-24T00:00:20.000Z
+810770,male,25,coloured,Western Cape,Trace TV,2016/02/26 06:43,2025-09-24T00:00:15.000Z
+810770,male,25,coloured,Western Cape,Trace TV,2016/02/24 05:02,2025-09-24T00:05:48.000Z
+810770,male,25,coloured,Western Cape,Trace TV,2016/03/08 19:22,2025-09-24T00:00:00.000Z
+810770,male,25,coloured,Western Cape,ICC Cricket World Cup 2011,2016/02/27 15:35,2025-09-24T00:00:00.000Z
+822560,male,23,white,Eastern Cape,Supersport Live Events,2016/02/26 15:35,2025-09-24T00:00:38.000Z
+822560,male,23,white,Eastern Cape,Supersport Live Events,2016/02/25 07:10,2025-09-24T00:02:28.000Z
+802352,None,0,None,None,ICC Cricket World Cup 2011,2016/03/30 09:04,2025-09-24T00:10:06.000Z
+866251,male,30,black,Gauteng,Boomerang,2016/03/10 19:13,2025-09-24T00:04:31.000Z
+866315,male,35,black,Gauteng,Boomerang,2016/03/17 22:32,2025-09-24T00:00:35.000Z
+808948,female,43,coloured,Western Cape,SuperSport Blitz,2016/02/11 05:04,2025-09-24T00:02:00.000Z
+808948,female,43,coloured,Western Cape,Channel O,2016/02/18 03:26,2025-09-24T00:00:12.000Z
+808948,female,43,coloured,Western Cape,Channel O,2016/02/18 13:46,2025-09-24T00:00:57.000Z
+808948,female,43,coloured,Western Cape,Channel O,2016/02/24 09:36,2025-09-24T00:01:00.000Z
+808948,female,43,coloured,Western Cape,Trace TV,2016/03/18 11:42,2025-09-24T00:01:24.000Z
+808948,female,43,coloured,Western Cape,Channel O,2016/03/18 11:55,2025-09-24T00:29:21.000Z
+808948,female,43,coloured,Western Cape,Channel O,2016/02/10 19:46,2025-09-24T00:00:27.000Z
+808948,female,43,coloured,Western Cape,Channel O,2016/03/20 15:49,2025-09-24T00:00:18.000Z
+808948,female,43,coloured,Western Cape,ICC Cricket World Cup 2011,2016/02/23 11:18,2025-09-24T00:14:44.000Z
+808948,female,43,coloured,Western Cape,Channel O,2016/02/13 01:05,2025-09-24T00:01:42.000Z
+771816,male,31,black,Gauteng,SawSee,2016/01/01 06:59,2025-09-24T00:01:19.000Z
+771816,male,31,black,Gauteng,Channel O,2016/01/01 07:02,2025-09-24T00:00:39.000Z
+771816,male,31,black,Gauteng,Trace TV,2016/01/01 17:29,2025-09-24T00:01:57.000Z
+771816,male,31,black,Gauteng,Cartoon Network,2016/03/23 11:09,2025-09-24T00:01:03.000Z
+771816,male,31,black,Gauteng,Trace TV,2016/02/06 19:26,2025-09-24T00:01:15.000Z
+771816,male,31,black,Gauteng,Trace TV,2016/02/27 09:32,2025-09-24T00:00:00.000Z
+771816,male,31,black,Gauteng,Trace TV,2016/03/07 03:54,2025-09-24T00:01:57.000Z
+771816,male,31,black,Gauteng,Cartoon Network,2016/03/01 06:27,2025-09-24T00:04:14.000Z
+853642,male,24,coloured,Kwazulu Natal,E! Entertainment,2016/03/06 21:22,2025-09-24T00:00:00.000Z
+865372,female,29,coloured,Kwazulu Natal,Boomerang,2016/03/28 06:07,2025-09-24T00:01:03.000Z
+865372,female,29,coloured,Kwazulu Natal,Boomerang,2016/03/27 05:10,2025-09-24T00:07:27.000Z
+779410,female,26,coloured,Gauteng,Cartoon Network,2016/01/21 17:19,2025-09-24T00:04:11.000Z
+779410,female,26,coloured,Gauteng,Trace TV,2016/02/03 12:04,2025-09-24T00:02:36.000Z
+939622,male,38,white,Mpumalanga,Boomerang,2016/03/27 23:23,2025-09-24T00:00:04.000Z
+939622,male,38,white,Mpumalanga,kykNET,2016/03/28 13:14,2025-09-24T00:02:06.000Z
+939622,male,38,white,Mpumalanga,CNN,2016/03/30 13:29,2025-09-24T00:00:19.000Z
+830980,male,42,indian_asian,Kwazulu Natal,Boomerang,2016/03/17 10:13,2025-09-24T00:03:10.000Z
+866195,male,32,white,Eastern Cape,MK,2016/03/12 00:19,2025-09-24T00:01:11.000Z
+803542,male,36,indian_asian,Kwazulu Natal,Trace TV,2016/03/31 14:52,2025-09-24T00:29:03.000Z
+593622,female,27,black,Gauteng,Trace TV,2016/01/21 12:05,2025-09-24T00:09:00.000Z
+919180,male,36,coloured,Western Cape,Supersport Live Events,2016/03/26 09:08,2025-09-24T00:06:00.000Z
+816289,female,25,black,Mpumalanga,Channel O,2016/03/08 12:48,2025-09-24T00:02:21.000Z
+816289,female,25,black,Mpumalanga,CNN,2016/03/09 05:31,2025-09-24T00:00:00.000Z
+416232,None,0,None,None,Boomerang,2016/02/13 05:15,2025-09-24T00:00:00.000Z
+721900,None,0,None,None,SawSee,2016/02/06 19:20,2025-09-24T00:00:00.000Z
+788728,male,35,black,Gauteng,ICC Cricket World Cup 2011,2016/03/15 08:58,2025-09-24T00:00:18.000Z
+892557,male,20,black,Gauteng,Cartoon Network,2016/03/09 13:36,2025-09-24T00:09:13.000Z
+880319,None,0,None,None,ICC Cricket World Cup 2011,2016/03/30 11:07,2025-09-24T02:09:56.000Z
+939702,male,37,None,Western Cape,Boomerang,2016/03/04 19:02,2025-09-24T00:07:46.000Z
+865408,male,37,black,North West,SuperSport Blitz,2016/03/16 17:59,2025-09-24T00:00:40.000Z
+866251,male,30,black,Gauteng,Trace TV,2016/03/03 18:32,2025-09-24T00:28:42.000Z
+788751,male,26,coloured,Western Cape,SuperSport Blitz,2016/02/01 21:35,2025-09-24T00:04:20.000Z
+2360384,male,37,black,Mpumalanga,Boomerang,2016/02/08 12:09,2025-09-24T00:04:44.000Z
+939717,male,27,indian_asian,Gauteng,E! Entertainment,2016/03/30 08:10,2025-09-24T00:00:46.000Z
+939717,male,27,indian_asian,Gauteng,Trace TV,2016/03/29 20:22,2025-09-24T00:02:06.000Z
+866270,male,32,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/13 12:07,2025-09-24T00:59:14.000Z
+866270,male,32,indian_asian,Gauteng,Cartoon Network,2016/03/19 09:27,2025-09-24T00:20:19.000Z
+817331,male,16,black,Gauteng,Channel O,2016/02/25 12:36,2025-09-24T00:16:00.000Z
+820491,male,48,black,Gauteng,Supersport Live Events,2016/03/01 04:12,2025-09-24T00:00:28.000Z
+830923,male,31,coloured,Western Cape,Trace TV,2016/03/03 09:16,2025-09-24T00:29:12.000Z
+830923,male,31,coloured,Western Cape,E! Entertainment,2016/03/03 15:09,2025-09-24T00:00:54.000Z
+830923,male,31,coloured,Western Cape,Trace TV,2016/03/04 12:30,2025-09-24T00:13:21.000Z
+809083,male,40,black,Gauteng,SuperSport Blitz,2016/02/25 12:46,2025-09-24T00:18:40.000Z
+809083,male,40,black,Gauteng,SawSee,2016/02/22 23:29,2025-09-24T00:01:44.000Z
+866315,male,35,black,Gauteng,Trace TV,2016/03/19 18:14,2025-09-24T00:00:33.000Z
+371772,female,9,indian_asian,Eastern Cape,Boomerang,2016/01/02 12:47,2025-09-24T00:05:59.000Z
+371772,female,9,indian_asian,Eastern Cape,Channel O,2016/01/09 15:38,2025-09-24T00:00:00.000Z
+190586,None,0,None,None,Boomerang,2016/01/17 17:07,2025-09-24T00:00:17.000Z
+809123,male,50,black,Gauteng,CNN,2016/02/03 20:19,2025-09-24T00:01:00.000Z
+820566,female,27,black,Gauteng,Supersport Live Events,2016/02/26 13:17,2025-09-24T00:00:44.000Z
+820566,female,27,black,Gauteng,CNN,2016/02/25 18:50,2025-09-24T00:02:31.000Z
+820566,female,27,black,Gauteng,DStv Events 1,2016/02/24 19:18,2025-09-24T00:01:20.000Z
+809128,male,18,black,Gauteng,Trace TV,2016/02/18 21:16,2025-09-24T00:02:42.000Z
+809128,male,18,black,Gauteng,Channel O,2016/02/18 21:24,2025-09-24T00:00:00.000Z
+809128,male,18,black,Gauteng,Supersport Live Events,2016/01/13 12:43,2025-09-24T00:02:34.000Z
+809128,male,18,black,Gauteng,Trace TV,2016/01/17 05:02,2025-09-24T00:01:12.000Z
+809128,male,18,black,Gauteng,Trace TV,2016/01/16 09:35,2025-09-24T00:02:33.000Z
+809128,male,18,black,Gauteng,Africa Magic,2016/01/12 15:12,2025-09-24T00:03:52.000Z
+809128,male,18,black,Gauteng,E! Entertainment,2016/01/12 18:44,2025-09-24T00:01:22.000Z
+809128,male,18,black,Gauteng,Cartoon Network,2016/01/12 17:58,2025-09-24T00:00:33.000Z
+809128,male,18,black,Gauteng,Africa Magic,2016/01/14 14:58,2025-09-24T00:30:06.000Z
+809128,male,18,black,Gauteng,Trace TV,2016/03/27 20:20,2025-09-24T00:05:33.000Z
+809128,male,18,black,Gauteng,Trace TV,2016/03/26 09:21,2025-09-24T00:26:18.000Z
+2091688,male,34,black,Gauteng,Boomerang,2016/02/13 16:18,2025-09-24T00:00:44.000Z
+764531,male,46,coloured,Limpopo,Supersport Live Events,2016/01/19 19:20,2025-09-24T00:00:50.000Z
+764531,male,46,coloured,Limpopo,E! Entertainment,2016/01/19 06:38,2025-09-24T00:18:46.000Z
+2414971,male,32,white,Gauteng,Boomerang,2016/01/27 23:07,2025-09-24T00:00:23.000Z
+2414971,male,32,white,Gauteng,Boomerang,2016/01/27 10:52,2025-09-24T00:00:10.000Z
+2414971,male,32,white,Gauteng,Supersport Live Events,2016/01/25 08:54,2025-09-24T00:01:02.000Z
+2414971,male,32,white,Gauteng,Trace TV,2016/01/25 10:46,2025-09-24T00:00:30.000Z
+2414971,male,32,white,Gauteng,E! Entertainment,2016/01/26 07:23,2025-09-24T00:00:22.000Z
+2414971,male,32,white,Gauteng,DStv Events 1,2016/01/24 05:43,2025-09-24T00:03:05.000Z
+2414971,male,32,white,Gauteng,SuperSport Blitz,2016/01/26 15:26,2025-09-24T00:00:30.000Z
+2414971,male,32,white,Gauteng,E! Entertainment,2016/01/23 13:40,2025-09-24T00:00:30.000Z
+2414971,male,32,white,Gauteng,Supersport Live Events,2016/01/22 22:56,2025-09-24T00:00:00.000Z
+2414971,male,32,white,Gauteng,Africa Magic,2016/01/22 13:51,2025-09-24T00:00:07.000Z
+2414971,male,32,white,Gauteng,Trace TV,2016/01/30 14:50,2025-09-24T00:00:33.000Z
+2414971,male,32,white,Gauteng,Supersport Live Events,2016/01/26 12:56,2025-09-24T00:00:20.000Z
+2414971,male,32,white,Gauteng,SuperSport Blitz,2016/02/01 17:54,2025-09-24T00:00:28.000Z
+2414971,male,32,white,Gauteng,Cartoon Network,2016/02/03 12:24,2025-09-24T00:00:08.000Z
+2414971,male,32,white,Gauteng,Africa Magic,2016/02/03 18:24,2025-09-24T00:00:07.000Z
+820601,male,35,indian_asian,Kwazulu Natal,SawSee,2016/02/25 19:04,2025-09-24T00:00:26.000Z
+820601,male,35,indian_asian,Kwazulu Natal,Supersport Live Events,2016/02/25 17:43,2025-09-24T00:00:00.000Z
+820601,male,35,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/23 08:19,2025-09-24T00:05:04.000Z
+773728,male,36,None,Gauteng,Boomerang,2016/02/06 16:28,2025-09-24T00:00:23.000Z
+585831,female,33,white,Gauteng,Boomerang,2016/01/02 09:43,2025-09-24T00:01:39.000Z
+608113,male,25,black,Gauteng,Cartoon Network,2016/01/08 20:35,2025-09-24T00:00:00.000Z
+809183,male,44,black,Gauteng,Live on SuperSport,2016/02/08 21:32,2025-09-24T00:03:30.000Z
+791497,male,34,black,Mpumalanga,M-Net,2016/01/19 18:21,2025-09-24T00:00:57.000Z
+791497,male,34,black,Mpumalanga,Cartoon Network,2016/01/14 21:50,2025-09-24T00:00:02.000Z
+926319,male,28,None,Limpopo,ICC Cricket World Cup 2011,2016/03/30 13:35,2025-09-24T00:08:52.000Z
+926319,male,28,None,Limpopo,Africa Magic,2016/03/30 19:52,2025-09-24T00:00:19.000Z
+2059372,male,33,black,Gauteng,Trace TV,2016/01/19 16:26,2025-09-24T00:00:00.000Z
+615122,male,24,black,Mpumalanga,Supersport Live Events,2016/01/10 14:01,2025-09-24T00:00:40.000Z
+830980,male,42,indian_asian,Kwazulu Natal,Channel O,2016/03/02 21:49,2025-09-24T00:01:12.000Z
+830980,male,42,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/18 09:46,2025-09-24T00:32:46.000Z
+830980,male,42,indian_asian,Kwazulu Natal,SuperSport Blitz,2016/03/04 13:22,2025-09-24T00:16:50.000Z
+830980,male,42,indian_asian,Kwazulu Natal,E! Entertainment,2016/03/04 11:46,2025-09-24T00:00:44.000Z
+830980,male,42,indian_asian,Kwazulu Natal,Channel O,2016/03/05 07:25,2025-09-24T00:03:42.000Z
+830980,male,42,indian_asian,Kwazulu Natal,Africa Magic,2016/03/06 21:45,2025-09-24T00:00:04.000Z
+830980,male,42,indian_asian,Kwazulu Natal,Boomerang,2016/03/06 18:12,2025-09-24T00:03:07.000Z
+830980,male,42,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/07 13:18,2025-09-24T00:05:24.000Z
+830980,male,42,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/25 14:05,2025-09-24T00:01:48.000Z
+2285956,male,40,black,Limpopo,Channel O,2016/03/04 05:53,2025-09-24T00:00:09.000Z
+2285956,male,40,black,Limpopo,Channel O,2016/03/20 16:44,2025-09-24T00:19:27.000Z
+2285956,male,40,black,Limpopo,Channel O,2016/03/07 11:11,2025-09-24T00:06:54.000Z
+159156,None,0,None,None,Cartoon Network,2016/03/06 10:17,2025-09-24T00:00:21.000Z
+820685,male,26,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/02/26 17:08,2025-09-24T00:00:46.000Z
+820685,male,26,indian_asian,Limpopo,MK,2016/03/02 05:13,2025-09-24T00:00:20.000Z
+820685,male,26,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/02/27 08:16,2025-09-24T00:00:52.000Z
+820685,male,26,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/02/28 16:38,2025-09-24T00:04:26.000Z
+832021,female,32,black,Gauteng,Africa Magic,2016/03/11 10:25,2025-09-24T00:01:54.000Z
+832021,female,32,black,Gauteng,Trace TV,2016/03/01 13:13,2025-09-24T00:00:39.000Z
+832021,female,32,black,Gauteng,Cartoon Network,2016/03/01 13:11,2025-09-24T00:00:14.000Z
+820695,male,33,black,Gauteng,ICC Cricket World Cup 2011,2016/03/03 09:58,2025-09-24T00:04:42.000Z
+820695,male,33,black,Gauteng,Supersport Live Events,2016/03/07 19:45,2025-09-24T00:00:00.000Z
+939925,male,26,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/29 11:20,2025-09-24T00:16:18.000Z
+939925,male,26,indian_asian,Gauteng,Trace TV,2016/03/29 18:36,2025-09-24T00:01:36.000Z
+788942,male,32,coloured,Western Cape,Boomerang,2016/02/11 04:31,2025-09-24T00:00:33.000Z
+2368852,male,35,black,Mpumalanga,Boomerang,2016/02/19 15:46,2025-09-24T00:00:43.000Z
+2368852,male,35,black,Mpumalanga,Channel O,2016/01/01 19:20,2025-09-24T00:03:27.000Z
+2368852,male,35,black,Mpumalanga,Cartoon Network,2016/01/01 01:39,2025-09-24T00:00:00.000Z
+2368852,male,35,black,Mpumalanga,Trace TV,2016/01/03 20:02,2025-09-24T00:03:27.000Z
+2368852,male,35,black,Mpumalanga,CNN,2016/01/04 10:06,2025-09-24T00:00:44.000Z
+2368852,male,35,black,Mpumalanga,Africa Magic,2016/01/03 04:23,2025-09-24T00:00:00.000Z
+2368852,male,35,black,Mpumalanga,Boomerang,2016/01/15 13:34,2025-09-24T00:01:25.000Z
+2368852,male,35,black,Mpumalanga,Africa Magic,2016/01/07 03:53,2025-09-24T00:00:00.000Z
+2368852,male,35,black,Mpumalanga,Cartoon Network,2016/02/01 14:39,2025-09-24T00:11:11.000Z
+2368852,male,35,black,Mpumalanga,Vuzu,2016/01/03 21:20,2025-09-24T00:00:13.000Z
+2368852,male,35,black,Mpumalanga,Channel O,2016/01/21 20:26,2025-09-24T00:14:33.000Z
+2368852,male,35,black,Mpumalanga,Africa Magic,2016/02/01 11:39,2025-09-24T00:08:03.000Z
+2368852,male,35,black,Mpumalanga,Vuzu,2016/01/15 18:55,2025-09-24T00:01:40.000Z
+2368852,male,35,black,Mpumalanga,MK,2016/03/23 06:07,2025-09-24T00:00:15.000Z
+2368852,male,35,black,Mpumalanga,E! Entertainment,2016/03/07 17:34,2025-09-24T00:03:48.000Z
+2368852,male,35,black,Mpumalanga,SawSee,2016/03/10 10:32,2025-09-24T00:09:58.000Z
+869202,female,36,None,Mpumalanga,CNN,2016/03/13 06:28,2025-09-24T00:00:00.000Z
+832036,male,46,black,Mpumalanga,Boomerang,2016/01/28 16:35,2025-09-24T00:11:08.000Z
+788945,male,33,black,Free State,Africa Magic,2016/02/14 01:31,2025-09-24T00:01:01.000Z
+809249,male,38,black,Kwazulu Natal,Channel O,2016/02/20 17:17,2025-09-24T00:12:15.000Z
+809249,male,38,black,Kwazulu Natal,Channel O,2016/02/17 05:48,2025-09-24T00:01:30.000Z
+809249,male,38,black,Kwazulu Natal,Africa Magic,2016/02/28 21:15,2025-09-24T00:16:53.000Z
+866478,male,31,white,Western Cape,Supersport Live Events,2016/03/11 16:58,2025-09-24T00:00:44.000Z
+793835,male,30,white,Free State,M-Net,2016/01/17 23:22,2025-09-24T00:00:12.000Z
+98046,male,31,black,Kwazulu Natal,Africa Magic,2016/01/04 20:41,2025-09-24T00:00:14.000Z
+98046,male,31,black,Kwazulu Natal,Trace TV,2016/01/07 20:15,2025-09-24T00:06:33.000Z
+98046,male,31,black,Kwazulu Natal,Channel O,2016/01/13 18:36,2025-09-24T00:02:48.000Z
+100538,None,0,None,None,Supersport Live Events,2016/03/24 14:25,2025-09-24T01:32:30.000Z
+2368945,female,42,coloured,Western Cape,ICC Cricket World Cup 2011,2016/02/20 03:54,2025-09-24T00:00:28.000Z
+2368945,female,42,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/03 07:04,2025-09-24T02:09:56.000Z
+1385756,female,34,black,Western Cape,M-Net,2016/01/17 09:31,2025-09-24T00:03:48.000Z
+1385756,female,34,black,Western Cape,SawSee,2016/01/04 23:20,2025-09-24T00:13:15.000Z
+530495,female,30,black,Gauteng,SawSee,2016/01/09 17:20,2025-09-24T00:00:17.000Z
+789004,male,36,None,Northern Cape,Africa Magic,2016/02/22 19:17,2025-09-24T00:02:09.000Z
+789004,male,36,None,Northern Cape,Channel O,2016/02/04 08:25,2025-09-24T00:17:21.000Z
+789004,male,36,None,Northern Cape,SuperSport Blitz,2016/02/07 13:59,2025-09-24T00:02:20.000Z
+789004,male,36,None,Northern Cape,Africa Magic,2016/02/10 19:42,2025-09-24T00:01:29.000Z
+789004,male,36,None,Northern Cape,Boomerang,2016/02/04 12:23,2025-09-24T00:00:51.000Z
+789004,male,36,None,Northern Cape,Africa Magic,2016/02/09 10:58,2025-09-24T00:00:34.000Z
+789004,male,36,None,Northern Cape,Supersport Live Events,2016/02/12 11:54,2025-09-24T00:02:58.000Z
+789004,male,36,None,Northern Cape,Africa Magic,2016/02/23 12:03,2025-09-24T00:02:03.000Z
+2216346,female,48,coloured,Western Cape,Boomerang,2016/02/13 20:57,2025-09-24T00:03:24.000Z
+1999889,male,34,coloured,Western Cape,ICC Cricket World Cup 2011,2016/02/24 11:35,2025-09-24T00:03:48.000Z
+1999889,male,34,coloured,Western Cape,Supersport Live Events,2016/02/16 16:06,2025-09-24T00:22:30.000Z
+1999889,male,34,coloured,Western Cape,Supersport Live Events,2016/01/26 04:46,2025-09-24T00:01:50.000Z
+1999889,male,34,coloured,Western Cape,Supersport Live Events,2016/01/26 04:49,2025-09-24T00:01:44.000Z
+1999889,male,34,coloured,Western Cape,Break in transmission,2016/02/27 15:00,2025-09-24T00:00:15.000Z
+1999889,male,34,coloured,Western Cape,Trace TV,2016/02/08 09:53,2025-09-24T00:02:48.000Z
+2426231,male,32,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/11 10:18,2025-09-24T00:10:26.000Z
+2426231,male,32,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/23 08:31,2025-09-24T00:07:32.000Z
+2426231,male,32,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/23 08:44,2025-09-24T00:07:50.000Z
+2426231,male,32,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/23 12:20,2025-09-24T00:02:02.000Z
+2426231,male,32,indian_asian,Gauteng,CNN,2016/03/05 11:23,2025-09-24T00:00:14.000Z
+2426231,male,32,indian_asian,Gauteng,kykNET,2016/03/05 22:31,2025-09-24T00:01:42.000Z
+2426231,male,32,indian_asian,Gauteng,SuperSport Blitz,2016/03/26 08:29,2025-09-24T00:02:34.000Z
+803869,male,43,None,Mpumalanga,Supersport Live Events,2016/03/08 17:36,2025-09-24T00:01:10.000Z
+809323,female,35,coloured,Mpumalanga,Trace TV,2016/02/24 10:24,2025-09-24T00:00:39.000Z
+809323,female,35,coloured,Mpumalanga,Trace TV,2016/02/04 10:18,2025-09-24T00:03:45.000Z
+930443,female,47,indian_asian,Gauteng,Boomerang,2016/03/30 20:24,2025-09-24T00:00:13.000Z
+894260,male,39,white,Western Cape,Boomerang,2016/03/17 16:32,2025-09-24T00:00:33.000Z
+2203762,male,31,black,Mpumalanga,Trace TV,2016/02/16 14:57,2025-09-24T00:00:48.000Z
+2203762,male,31,black,Mpumalanga,Supersport Live Events,2016/02/04 05:56,2025-09-24T00:01:04.000Z
+2203762,male,31,black,Mpumalanga,Africa Magic,2016/01/24 19:08,2025-09-24T00:00:19.000Z
+2203762,male,31,black,Mpumalanga,Supersport Live Events,2016/01/25 19:20,2025-09-24T00:00:00.000Z
+2203762,male,31,black,Mpumalanga,CNN,2016/02/03 10:14,2025-09-24T00:01:16.000Z
+2203762,male,31,black,Mpumalanga,Sawsee,2016/02/08 19:04,2025-09-24T00:00:48.000Z
+789054,male,42,black,Western Cape,kykNET,2016/01/30 17:03,2025-09-24T00:14:51.000Z
+789054,male,42,black,Western Cape,CNN,2016/02/08 22:27,2025-09-24T00:01:42.000Z
+809362,male,36,black,Gauteng,E! Entertainment,2016/02/15 15:02,2025-09-24T00:07:52.000Z
+809362,male,36,black,Gauteng,Africa Magic,2016/02/15 19:58,2025-09-24T00:00:00.000Z
+809362,male,36,black,Gauteng,Africa Magic,2016/02/14 13:50,2025-09-24T00:03:44.000Z
+869328,female,42,indian_asian,Gauteng,Cartoon Network,2016/02/24 15:59,2025-09-24T00:01:01.000Z
+869328,female,42,indian_asian,Gauteng,Cartoon Network,2016/03/04 16:11,2025-09-24T00:00:36.000Z
+869328,female,42,indian_asian,Gauteng,SuperSport Blitz,2016/03/19 15:16,2025-09-24T00:03:52.000Z
+789064,female,27,coloured,Western Cape,Trace TV,2016/02/14 14:24,2025-09-24T00:02:18.000Z
+789064,female,27,coloured,Western Cape,Supersport Live Events,2016/02/01 06:27,2025-09-24T00:03:00.000Z
+809382,male,24,black,Gauteng,Africa Magic,2016/02/20 20:15,2025-09-24T00:14:31.000Z
+809382,male,24,black,Gauteng,CNN,2016/02/28 17:27,2025-09-24T00:04:38.000Z
+786452,male,28,white,Gauteng,Supersport Live Events,2016/03/11 16:50,2025-09-24T00:01:22.000Z
+786452,male,28,white,Gauteng,Boomerang,2016/02/28 23:09,2025-09-24T00:20:51.000Z
+940108,male,22,black,Mpumalanga,Trace TV,2016/03/30 16:31,2025-09-24T00:00:27.000Z
+940108,male,22,black,Mpumalanga,ICC Cricket World Cup 2011,2016/03/26 15:39,2025-09-24T00:03:14.000Z
+940108,male,22,black,Mpumalanga,Cartoon Network,2016/03/29 06:47,2025-09-24T00:00:00.000Z
+809398,male,37,black,Western Cape,Supersport Live Events,2016/01/05 20:27,2025-09-24T00:26:06.000Z
+886109,male,31,indian_asian,Eastern Cape,ICC Cricket World Cup 2011,2016/03/20 10:10,2025-09-24T00:02:36.000Z
+855864,female,26,coloured,Kwazulu Natal,SawSee,2016/03/27 09:33,2025-09-24T00:00:38.000Z
+797707,male,41,white,North West,Supersport Live Events,2016/02/17 15:41,2025-09-24T00:02:04.000Z
+809448,male,20,coloured,Western Cape,Cartoon Network,2016/02/19 13:35,2025-09-24T00:02:46.000Z
+809448,male,20,coloured,Western Cape,Supersport Live Events,2016/03/05 18:49,2025-09-24T00:04:44.000Z
+919677,female,26,white,Gauteng,Boomerang,2016/03/27 19:16,2025-09-24T00:00:16.000Z
+820978,male,39,black,Northern Cape,Cartoon Network,2016/02/26 06:06,2025-09-24T00:01:06.000Z
+820978,male,39,black,Northern Cape,Africa Magic,2016/03/02 13:19,2025-09-24T00:00:59.000Z
+820978,male,39,black,Northern Cape,Africa Magic,2016/03/11 14:25,2025-09-24T00:01:02.000Z
+820978,male,39,black,Northern Cape,CNN,2016/03/23 05:40,2025-09-24T00:35:50.000Z
+820978,male,39,black,Northern Cape,Supersport Live Events,2016/03/20 14:39,2025-09-24T00:00:24.000Z
+820978,male,39,black,Northern Cape,SuperSport Blitz,2016/02/28 14:34,2025-09-24T00:03:32.000Z
+820978,male,39,black,Northern Cape,Boomerang,2016/03/09 14:51,2025-09-24T00:02:25.000Z
+820978,male,39,black,Northern Cape,CNN,2016/03/09 13:56,2025-09-24T00:00:20.000Z
+820978,male,39,black,Northern Cape,Boomerang,2016/03/25 17:50,2025-09-24T00:15:58.000Z
+820978,male,39,black,Northern Cape,ICC Cricket World Cup 2011,2016/03/25 15:54,2025-09-24T00:17:08.000Z
+789148,male,36,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/06 05:39,2025-09-24T00:02:38.000Z
+789156,male,23,black,Mpumalanga,Channel O,2016/01/16 15:48,2025-09-24T00:00:45.000Z
+789156,male,23,black,Mpumalanga,Boomerang,2016/01/16 19:23,2025-09-24T00:22:44.000Z
+789156,male,23,black,Mpumalanga,Trace TV,2016/01/15 05:06,2025-09-24T00:03:36.000Z
+821010,male,33,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/02/24 10:34,2025-09-24T00:02:10.000Z
+2360384,male,37,black,Mpumalanga,SuperSport Blitz,2016/02/21 10:17,2025-09-24T00:05:58.000Z
+2360384,male,37,black,Mpumalanga,SuperSport Blitz,2016/02/02 10:36,2025-09-24T00:00:00.000Z
+2360384,male,37,black,Mpumalanga,Boomerang,2016/03/11 16:32,2025-09-24T00:00:19.000Z
+2360384,male,37,black,Mpumalanga,SuperSport Blitz,2016/01/12 09:26,2025-09-24T00:04:14.000Z
+2360384,male,37,black,Mpumalanga,SawSee,2016/01/13 14:06,2025-09-24T00:04:42.000Z
+2360384,male,37,black,Mpumalanga,Trace TV,2016/03/16 12:10,2025-09-24T00:00:36.000Z
+2360384,male,37,black,Mpumalanga,SuperSport Blitz,2016/02/23 04:48,2025-09-24T00:06:50.000Z
+2360384,male,37,black,Mpumalanga,Channel O,2016/03/01 16:37,2025-09-24T00:41:06.000Z
+809500,male,28,coloured,Gauteng,SuperSport Blitz,2016/02/19 06:03,2025-09-24T00:01:58.000Z
+809500,male,28,coloured,Gauteng,Cartoon Network,2016/02/20 06:37,2025-09-24T00:21:00.000Z
+832310,male,37,indian_asian,Kwazulu Natal,SawSee,2016/03/05 15:43,2025-09-24T00:00:13.000Z
+2360394,male,43,white,Gauteng,Supersport Live Events,2016/02/25 07:40,2025-09-24T00:03:30.000Z
+832320,female,32,black,Gauteng,Channel O,2016/03/15 15:12,2025-09-24T01:16:12.000Z
+832320,female,32,black,Gauteng,Channel O,2016/02/28 10:22,2025-09-24T01:49:03.000Z
+809516,female,23,black,Mpumalanga,Trace TV,2016/02/21 12:42,2025-09-24T00:01:45.000Z
+809516,female,23,black,Mpumalanga,Trace TV,2016/02/22 05:26,2025-09-24T01:13:00.000Z
+809516,female,23,black,Mpumalanga,Africa Magic,2016/02/21 15:51,2025-09-24T00:00:08.000Z
+2203948,male,44,indian_asian,Kwazulu Natal,SuperSport Blitz,2016/03/29 05:48,2025-09-24T00:00:54.000Z
+751018,male,27,white,North West,M-Net,2016/01/28 17:03,2025-09-24T00:00:35.000Z
+751018,male,27,white,North West,E! Entertainment,2016/01/28 16:57,2025-09-24T00:02:00.000Z
+777525,male,34,indian_asian,Northern Cape,Supersport Live Events,2016/03/03 14:46,2025-09-24T00:08:56.000Z
+466620,male,27,black,Northern Cape,Boomerang,2016/01/11 19:27,2025-09-24T00:00:00.000Z
+809578,female,23,black,Limpopo,Boomerang,2016/02/19 01:49,2025-09-24T00:00:00.000Z
+809578,female,23,black,Limpopo,Africa Magic,2016/02/21 13:04,2025-09-24T00:00:06.000Z
+809578,female,23,black,Limpopo,Channel O,2016/02/19 12:51,2025-09-24T00:05:00.000Z
+821120,None,0,None,None,ICC Cricket World Cup 2011,2016/03/02 09:28,2025-09-24T00:08:02.000Z
+821120,None,0,None,None,ICC Cricket World Cup 2011,2016/03/30 16:42,2025-09-24T00:09:16.000Z
+893107,male,24,white,Gauteng,Cartoon Network,2016/03/26 15:56,2025-09-24T00:03:00.000Z
+893107,male,24,white,Gauteng,Cartoon Network,2016/03/26 10:27,2025-09-24T00:01:14.000Z
+1107332,male,23,black,Gauteng,SuperSport Blitz,2016/01/24 09:06,2025-09-24T00:00:08.000Z
+1107332,male,23,black,Gauteng,Supersport Live Events,2016/01/22 12:24,2025-09-24T00:00:10.000Z
+1107332,male,23,black,Gauteng,E! Entertainment,2016/01/28 19:39,2025-09-24T00:05:44.000Z
+789254,male,24,black,Mpumalanga,SuperSport Blitz,2016/01/16 11:43,2025-09-24T00:00:48.000Z
+789254,male,24,black,Mpumalanga,Channel O,2016/01/19 18:27,2025-09-24T00:00:03.000Z
+789254,male,24,black,Mpumalanga,Channel O,2016/01/20 19:00,2025-09-24T00:00:03.000Z
+789254,male,24,black,Mpumalanga,Channel O,2016/01/22 18:46,2025-09-24T00:06:48.000Z
+789254,male,24,black,Mpumalanga,Trace TV,2016/01/24 06:58,2025-09-24T00:16:03.000Z
+789254,male,24,black,Mpumalanga,Channel O,2016/01/20 20:04,2025-09-24T00:08:12.000Z
+789254,male,24,black,Mpumalanga,Africa Magic,2016/01/23 06:25,2025-09-24T00:00:05.000Z
+789254,male,24,black,Mpumalanga,Channel O,2016/01/19 14:13,2025-09-24T00:00:51.000Z
+789254,male,24,black,Mpumalanga,Channel O,2016/01/23 20:31,2025-09-24T00:00:45.000Z
+789254,male,24,black,Mpumalanga,Supersport Live Events,2016/01/16 11:42,2025-09-24T00:00:22.000Z
+789254,male,24,black,Mpumalanga,SuperSport Blitz,2016/01/25 08:50,2025-09-24T00:00:00.000Z
+789254,male,24,black,Mpumalanga,Supersport Live Events,2016/01/16 15:05,2025-09-24T00:03:56.000Z
+789256,male,27,black,Mpumalanga,Supersport Live Events,2016/01/15 18:00,2025-09-24T00:12:44.000Z
+789256,male,27,black,Mpumalanga,Trace TV,2016/01/06 10:34,2025-09-24T00:02:03.000Z
+789256,male,27,black,Mpumalanga,Boomerang,2016/01/24 03:41,2025-09-24T00:03:09.000Z
+582896,male,19,white,Western Cape,Trace TV,2016/01/05 21:50,2025-09-24T00:00:00.000Z
+582896,male,19,white,Western Cape,Trace TV,2016/01/02 11:24,2025-09-24T00:00:00.000Z
+789288,male,25,indian_asian,Limpopo,Africa Magic,2016/02/19 20:34,2025-09-24T00:00:23.000Z
+789288,male,25,indian_asian,Limpopo,Africa Magic,2016/02/07 11:53,2025-09-24T00:00:23.000Z
+789288,male,25,indian_asian,Limpopo,SuperSport Blitz,2016/02/06 20:11,2025-09-24T00:00:00.000Z
+705439,male,19,black,Limpopo,Channel O,2016/02/08 07:35,2025-09-24T00:00:00.000Z
+882688,male,36,indian_asian,Limpopo,SuperSport Blitz,2016/03/19 10:52,2025-09-24T00:00:54.000Z
+2000160,male,43,black,North West,SuperSport Blitz,2016/03/04 17:19,2025-09-24T00:51:46.000Z
+2000160,male,43,black,North West,SuperSport Blitz,2016/02/09 18:48,2025-09-24T00:17:08.000Z
+2000160,male,43,black,North West,CNN,2016/03/25 11:40,2025-09-24T02:01:24.000Z
+2000160,male,43,black,North West,CNN,2016/02/08 00:41,2025-09-24T00:00:34.000Z
+869588,female,27,coloured,Western Cape,Trace TV,2016/03/03 11:25,2025-09-24T00:29:12.000Z
+869588,female,27,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/08 11:59,2025-09-24T00:02:06.000Z
+869588,female,27,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/12 11:22,2025-09-24T02:09:56.000Z
+940392,female,29,black,Gauteng,SuperSport Blitz,2016/03/02 18:51,2025-09-24T00:00:20.000Z
+940392,female,29,black,Gauteng,Trace TV,2016/03/25 19:12,2025-09-24T00:00:36.000Z
+1107441,female,16,black,Gauteng,Channel O,2016/03/01 12:26,2025-09-24T00:00:06.000Z
+604047,male,35,black,Kwazulu Natal,Channel O,2016/01/07 18:43,2025-09-24T00:09:33.000Z
+940427,male,24,indian_asian,Gauteng,Africa Magic,2016/03/31 17:55,2025-09-24T00:00:25.000Z
+940427,male,24,indian_asian,Gauteng,ICC Cricket World Cup 2011,2016/03/30 13:06,2025-09-24T00:35:02.000Z
+866941,male,29,black,Kwazulu Natal,Channel O,2016/03/13 21:26,2025-09-24T00:26:33.000Z
+866941,male,29,black,Kwazulu Natal,Trace TV,2016/03/13 21:45,2025-09-24T00:19:06.000Z
+860206,male,26,coloured,Northern Cape,ICC Cricket World Cup 2011,2016/03/06 12:06,2025-09-24T00:00:00.000Z
+860206,male,26,coloured,Northern Cape,M-Net,2016/03/06 14:13,2025-09-24T00:01:19.000Z
+2426866,male,30,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/16 10:33,2025-09-24T00:34:26.000Z
+777655,male,28,black,Mpumalanga,Supersport Live Events,2016/01/30 18:59,2025-09-24T00:00:00.000Z
+2369649,male,39,coloured,Western Cape,SawSee,2016/01/15 10:39,2025-09-24T00:00:31.000Z
+2369649,male,39,coloured,Western Cape,Cartoon Network,2016/01/02 14:37,2025-09-24T00:01:47.000Z
+893227,male,27,black,Eastern Cape,SuperSport Blitz,2016/03/18 06:28,2025-09-24T00:00:28.000Z
+893227,male,27,black,Eastern Cape,Supersport Live Events,2016/03/06 15:13,2025-09-24T00:00:10.000Z
+824262,male,47,black,Gauteng,Supersport Live Events,2016/02/26 17:58,2025-09-24T00:00:00.000Z
+809744,male,29,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/02/22 15:32,2025-09-24T00:00:00.000Z
+809744,male,29,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/02/24 15:21,2025-09-24T00:00:50.000Z
+809744,male,29,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/02/24 13:17,2025-09-24T00:00:00.000Z
+809744,male,29,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/02/24 13:18,2025-09-24T00:00:00.000Z
+809744,male,29,indian_asian,Kwazulu Natal,Supersport Live Events,2016/03/06 13:32,2025-09-24T00:00:44.000Z
+809744,male,29,indian_asian,Kwazulu Natal,Cartoon Network,2016/02/23 13:11,2025-09-24T00:00:00.000Z
+930873,male,28,indian_asian,Kwazulu Natal,ICC Cricket World Cup 2011,2016/03/30 17:03,2025-09-24T00:01:20.000Z
+549969,male,21,indian_asian,Mpumalanga,Supersport Live Events,2016/01/06 12:51,2025-09-24T01:00:02.000Z
+549969,male,21,indian_asian,Mpumalanga,ICC Cricket World Cup 2011,2016/03/20 12:06,2025-09-24T00:00:36.000Z
+549969,male,21,indian_asian,Mpumalanga,Supersport Live Events,2016/03/24 08:43,2025-09-24T00:00:50.000Z
+772551,male,51,other,Western Cape,Cartoon Network,2016/01/22 13:23,2025-09-24T00:00:22.000Z
+780045,male,29,white,Kwazulu Natal,Boomerang,2016/02/07 14:12,2025-09-24T00:00:13.000Z
+1519602,male,34,black,Gauteng,ICC Cricket World Cup 2011,2016/03/25 17:00,2025-09-24T00:00:00.000Z
+2369759,male,30,indian_asian,Limpopo,Supersport Live Events,2016/01/21 12:57,2025-09-24T00:10:32.000Z
+2369759,male,30,indian_asian,Limpopo,ICC Cricket World Cup 2011,2016/03/23 08:36,2025-09-24T00:01:14.000Z
+2369761,male,39,black,Gauteng,Africa Magic,2016/02/18 19:11,2025-09-24T00:00:47.000Z
+2369761,male,39,black,Gauteng,Supersport Live Events,2016/02/05 18:58,2025-09-24T00:01:28.000Z
+2369761,male,39,black,Gauteng,Africa Magic,2016/02/21 00:08,2025-09-24T00:00:24.000Z
+2369761,male,39,black,Gauteng,Channel O,2016/03/10 02:03,2025-09-24T00:25:51.000Z
+821351,male,27,coloured,Western Cape,Trace TV,2016/02/21 06:43,2025-09-24T00:13:54.000Z
+821351,male,27,coloured,Western Cape,ICC Cricket World Cup 2011,2016/03/12 11:14,2025-09-24T00:02:44.000Z
+940522,male,29,black,Gauteng,SawSee,2016/03/14 20:44,2025-09-24T00:02:17.000Z
+867034,male,26,None,Gauteng,CNN,2016/03/06 17:31,2025-09-24T00:01:08.000Z
+821371,female,113,None,Eastern Cape,Channel O,2016/02/27 20:25,2025-09-24T00:13:42.000Z
+821371,female,113,None,Eastern Cape,Africa Magic,2016/02/28 09:46,2025-09-24T00:00:09.000Z
+2369849,female,39,black,Northern Cape,Cartoon Network,2016/02/25 11:04,2025-09-24T00:13:54.000Z
+2369849,female,39,black,Northern Cape,Channel O,2016/03/19 01:07,2025-09-24T00:06:00.000Z
+2369849,female,39,black,Northern Cape,Cartoon Network,2016/03/19 03:38,2025-09-24T01:03:02.000Z
+2369849,female,39,black,Northern Cape,Channel O,2016/02/06 13:48,2025-09-24T00:01:33.000Z
+2369849,female,39,black,Northern Cape,Cartoon Network,2016/03/29 10:02,2025-09-24T00:33:53.000Z
+2000313,male,27,black,North West,DStv Events 1,2016/03/31 19:00,2025-09-24T00:02:05.000Z
+809825,male,32,black,Gauteng,Supersport Live Events,2016/02/19 06:55,2025-09-24T00:19:38.000Z
+809825,male,32,black,Gauteng,Supersport Live Events,2016/02/19 21:34,2025-09-24T00:00:30.000Z
+809825,male,32,black,Gauteng,Supersport Live Events,2016/02/19 21:43,2025-09-24T00:03:56.000Z
+809825,male,32,black,Gauteng,Supersport Live Events,2016/02/19 21:49,2025-09-24T00:00:54.000Z
+809825,male,32,black,Gauteng,Supersport Live Events,2016/02/19 21:57,2025-09-24T00:00:00.000Z
+809825,male,32,black,Gauteng,Africa Magic,2016/02/16 17:22,2025-09-24T00:00:19.000Z
+809825,male,32,black,Gauteng,Boomerang,2016/02/17 04:53,2025-09-24T00:00:00.000Z
+809825,male,32,black,Gauteng,Africa Magic,2016/02/17 10:04,2025-09-24T00:00:34.000Z
+809825,male,32,black,Gauteng,Africa Magic,2016/02/17 05:46,2025-09-24T00:00:28.000Z
+809825,male,32,black,Gauteng,SuperSport Blitz,2016/02/17 16:31,2025-09-24T00:01:36.000Z
+893341,male,9,white,Kwazulu Natal,Cartoon Network,2016/03/20 06:18,2025-09-24T00:01:08.000Z
+867105,male,34,black,North West,Boomerang,2016/03/09 07:32,2025-09-24T00:02:49.000Z
+867105,male,34,black,North West,Channel O,2016/03/09 16:53,2025-09-24T00:03:39.000Z
+559277,male,26,None,Western Cape,E! Entertainment,2016/01/01 13:04,2025-09-24T00:01:36.000Z
+28363,male,37,black,Gauteng,Supersport Live Events,2016/01/31 17:18,2025-09-24T00:00:00.000Z
+832678,male,33,black,Free State,E! Entertainment,2016/02/28 18:11,2025-09-24T00:01:46.000Z
+832678,male,33,black,Free State,Channel O,2016/02/28 18:22,2025-09-24T00:31:42.000Z
+2287875,male,46,black,Gauteng,CNN,2016/02/07 04:05,2025-09-24T00:05:17.000Z
+2287875,male,46,black,Gauteng,Cartoon Network,2016/01/17 18:52,2025-09-24T00:01:33.000Z
+2287875,male,46,black,Gauteng,CNN,2016/01/16 05:58,2025-09-24T00:01:33.000Z
+2287875,male,46,black,Gauteng,CNN,2016/01/18 03:53,2025-09-24T00:10:36.000Z
+2287875,male,46,black,Gauteng,CNN,2016/01/26 17:17,2025-09-24T00:01:27.000Z
+2287875,male,46,black,Gauteng,Supersport Live Events,2016/01/18 17:31,2025-09-24T00:03:04.000Z
+2287875,male,46,black,Gauteng,ICC Cricket World Cup 2011,2016/03/23 11:28,2025-09-24T00:00:00.000Z
+2287875,male,46,black,Gauteng,CNN,2016/02/09 06:30,2025-09-24T00:03:03.000Z
+804404,male,33,black,Mpumalanga,Africa Magic,2016/03/13 12:07,2025-09-24T00:01:24.000Z
+804404,male,33,black,Mpumalanga,Supersport Live Events,2016/03/12 17:23,2025-09-24T00:00:00.000Z
+641172,male,32,black,Limpopo,Channel O,2016/01/01 11:44,2025-09-24T00:01:57.000Z
+2369968,male,26,black,Mpumalanga,Africa Magic,2016/01/07 19:04,2025-09-24T00:18:44.000Z
+2369968,male,26,black,Mpumalanga,SuperSport Blitz,2016/01/08 12:14,2025-09-24T00:01:02.000Z
+820077,male,40,coloured,Western Cape,Cartoon Network,2016/03/21 22:26,2025-09-24T00:34:06.000Z
+851705,male,40,black,Eastern Cape,SuperSport Blitz,2016/03/06 13:43,2025-09-24T00:01:36.000Z
+851705,male,40,black,Eastern Cape,E! Entertainment,2016/03/07 12:20,2025-09-24T00:03:06.000Z
+1122561,male,19,white,Kwazulu Natal,E! Entertainment,2016/03/26 09:59,2025-09-24T00:00:28.000Z
+809892,male,27,black,Gauteng,Channel O,2016/03/02 17:49,2025-09-24T00:04:54.000Z
+809892,male,27,black,Gauteng,Trace TV,2016/03/02 17:56,2025-09-24T00:20:48.000Z
+809892,male,27,black,Gauteng,Supersport Live Events,2016/03/02 13:22,2025-09-24T00:00:54.000Z
+809892,male,27,black,Gauteng,Trace TV,2016/03/06 16:57,2025-09-24T00:08:30.000Z
+809892,male,27,black,Gauteng,CNN,2016/03/06 16:24,2025-09-24T00:01:58.000Z
+809892,male,27,black,Gauteng,SuperSport Blitz,2016/03/06 16:30,2025-09-24T00:02:04.000Z
+809892,male,27,black,Gauteng,Africa Magic,2016/02/27 09:44,2025-09-24T00:00:35.000Z
+809892,male,27,black,Gauteng,Africa Magic,2016/02/27 09:49,2025-09-24T00:00:13.000Z
+809892,male,27,black,Gauteng,Channel O,2016/03/09 15:51,2025-09-24T00:02:30.000Z
+860451,male,112,None,Western Cape,CNN,2016/03/11 07:21,2025-09-24T00:00:44.000Z
+772680,male,25,black,Gauteng,Channel O,2016/02/04 16:05,2025-09-24T00:00:09.000Z
+772680,male,25,black,Gauteng,kykNET,2016/01/31 18:21,2025-09-24T00:00:51.000Z
+772680,male,25,black,Gauteng,Cartoon Network,2016/01/31 16:41,2025-09-24T00:01:06.000Z
+809924,male,52,black,Western Cape,Boomerang,2016/02/19 10:04,2025-09-24T00:00:34.000Z
+809924,male,52,black,Western Cape,Boomerang,2016/02/19 09:40,2025-09-24T00:00:28.000Z
+809924,male,52,black,Western Cape,Supersport Live Events,2016/02/19 08:30,2025-09-24T00:01:56.000Z
+809924,male,52,black,Western Cape,CNN,2016/01/21 19:04,2025-09-24T00:05:11.000Z
+809924,male,52,black,Western Cape,SuperSport Blitz,2016/01/15 10:35,2025-09-24T00:00:10.000Z
+809924,male,52,black,Western Cape,CNN,2016/01/23 16:46,2025-09-24T00:17:58.000Z
+809924,male,52,black,Western Cape,CNN,2016/01/05 16:08,2025-09-24T00:06:03.000Z
+809924,male,52,black,Western Cape,Africa Magic,2016/01/21 19:09,2025-09-24T00:01:49.000Z
+809924,male,52,black,Western Cape,Boomerang,2016/03/25 18:59,2025-09-24T00:02:02.000Z
+893450,male,33,black,Gauteng,Supersport Live Events,2016/03/19 20:44,2025-09-24T00:00:00.000Z
+893450,male,33,black,Gauteng,Trace TV,2016/03/26 16:50,2025-09-24T00:00:27.000Z
+867215,male,38,indian_asian,Limpopo,Boomerang,2016/03/30 08:44,2025-09-24T00:04:24.000Z
